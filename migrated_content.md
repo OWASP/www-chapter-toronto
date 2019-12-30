@@ -466,7 +466,7 @@ Space is limited, so please RSVP on our [chapter event
 page](https://www.meetup.com/OWASP-Toronto/events/258798951/).
 
 **[In Root we trust (no this is not a DNS
-talk)](https://www.owasp.org/images/0/08/OWASP-Toronto-Feb-2019-In_Root_we_Trust.pdf)**
+talk)](/www-pdf-archive/OWASP-Toronto-Feb-2019-In_Root_we_Trust.pdf)**
 
 *Abstract*
 
@@ -573,7 +573,7 @@ Space is limited, so please RSVP on our [chapter event
 page](https://www.meetup.com/OWASP-Toronto/events/256615463/).
 
 **[Web Application Penetration Testing - Methodology and
-Approach](https://www.owasp.org/images/5/5b/OWASP-Toronto-Dec-2018-Web_Application-Penetration-Testing.pdf)**
+Approach](/www-pdf-archive/OWASP-Toronto-Dec-2018-Web_Application-Penetration-Testing.pdf)**
 
 *Abstract*
 
@@ -811,7 +811,7 @@ Space is limited, so please RSVP on our [chapter event
 page](https://www.meetup.com/OWASP-Toronto/events/251502769/).
 
 **[How to stop worrying about Application Container Security
-(v2)](https://www.owasp.org/images/6/6d/OWASP_2018_-_How_to_stop_worrying_about_Application_Container_Security_v2_-_Andrzejewski.pdf)**
+(v2)](/www-pdf-archive/OWASP_2018_-_How_to_stop_worrying_about_Application_Container_Security_v2_-_Andrzejewski.pdf)**
 
 Containers make it easier to deploy the applications that drive business
 value, but also profoundly challenge existing security models. Learn
@@ -912,7 +912,7 @@ Space is limited, so please RSVP on our [Meetup.com chapter event
 page](https://www.meetup.com/OWASP-Toronto/events/249233912/).
 
 **[CISO's 90 Day
-Plan](https://www.owasp.org/images/6/6d/OWASP_Toronto_-_CISO_90_Day_Plan_-_Nelson_Chen_-_2018-04-28.pdf)**
+Plan](/www-pdf-archive/OWASP_Toronto_-_CISO_90_Day_Plan_-_Nelson_Chen_-_2018-04-28.pdf)**
 
 **Agenda**
 
@@ -1022,7 +1022,7 @@ Space is limited, so please RSVP on our [Meetup.com chapter event
 page](https://www.meetup.com/OWASP-Toronto/events/246663547/).
 
 **[Hi, I am X. How do I get into AppSec /
-Security?](https://www.owasp.org/images/7/7a/OWASP_Toronto_January_2018.pdf)**
+Security?](/www-pdf-archive/OWASP_Toronto_January_2018.pdf)**
 
 This will be a guided discussion about entering the world of application
 security, or information security in general. We will cover topics such
@@ -1041,7 +1041,7 @@ page](https://www.meetup.com/OWASP-Toronto/events/244092307/).
 
 **[Swiss cheese security, or the real challenges faced by internet
 facing
-companies](https://www.owasp.org/images/f/f8/Branca_Owasp_Toronto_2017.pdf)**
+companies](/www-pdf-archive/Branca_Owasp_Toronto_2017.pdf)**
 
 **Summary**
 
@@ -1095,7 +1095,7 @@ page](https://www.meetup.com/OWASP-Toronto/events/242386514/).
 **Session Description:**
 
 **[Cloud Security & Best Practice in
-AWS](https://www.owasp.org/images/4/4f/OWASP_Toronto_-_Aug_2017_-_Cloud_Security_%26_Best_Practice_in_AWS_by_Ankit_Giri.pdf)**
+AWS](/www-pdf-archive/OWASP_Toronto_-_Aug_2017_-_Cloud_Security_%26_Best_Practice_in_AWS_by_Ankit_Giri.pdf)**
 
   - Few instances of breach in cloud (AWS): Account compromise via leak
     of AWS Keys on GitHub SSRF attack Publicly accessible S3 Bucket,
@@ -1140,7 +1140,7 @@ confirm your presence.
 **Session Description:**
 
 **[The Node.js Highway: Attacks Are At Full
-Throttle](https://www.owasp.org/images/c/c8/OWASP_Toronto_2017-TheNode_jsHighwayAttacksAreAtFullThrottle-Checkmarx.pdf)**
+Throttle](/www-pdf-archive/OWASP_Toronto_2017-TheNode_jsHighwayAttacksAreAtFullThrottle-Checkmarx.pdf)**
 
 Node.js is the drive-and-go language and its popularity is soaring. Five
 years after its debut, and the language’s framework boasts more 2M
@@ -1285,7 +1285,7 @@ us.
 **Agenda:**
 
 **1 - [Overview and Intro to OWASP
-Projects](https://www.owasp.org/images/0/08/OWASP_Toronto_March_2017_Intro_%26_Projects.pdf)
+Projects](/www-pdf-archive/OWASP_Toronto_March_2017_Intro_%26_Projects.pdf)
 - Yuk Fai Chan**
 
 A quick overview of the OWASP will be presented for those who are
@@ -1471,7 +1471,7 @@ protect it, while providing examples and code snippets on how each goal
 may be achieved by any given party.
 
 Enrico's presentation slides can be found
-*[here](https://www.owasp.org/images/9/9f/OWASP_MeetupTO.pdf)*.
+*[here](/www-pdf-archive/OWASP_MeetupTO.pdf)*.
 
 -----
 
@@ -1554,7 +1554,7 @@ Internetworking/Genuity's appliance-based managed security services.
 
 *[What's Hiding in Your Software Components? Hidden Risks of
 Component-Based Software Development – Seeing the Forest Through the
-Trees](https://www.owasp.org/images/e/ee/OWASP_TORONTO_SEP_2014_Ryan_Berg.pdf)*
+Trees](/www-pdf-archive/OWASP_TORONTO_SEP_2014_Ryan_Berg.pdf)*
 
 Software is no longer written, it's assembled. With 80% of a typical
 application now being assembled from components, it's time to take a
@@ -1580,7 +1580,7 @@ Dr. Mark Shtern, CISSP, Postdoctoral Fellow at York University
 **Session Outline:**
 
 [DDoS Attacks and Mitigation in Cloud
-Environments](https://www.owasp.org/images/1/19/OWASP_Toronto_Jul_2014_DoS_Attack_Mitigation_in_Cloud_Mark_Schtern.pdf)
+Environments](/www-pdf-archive/OWASP_Toronto_Jul_2014_DoS_Attack_Mitigation_in_Cloud_Mark_Schtern.pdf)
 
 Distributed Denial of Service (DDoS) attacks are negatively impacting a
 broad spectrum of industries as they are increasing in number,
@@ -1612,7 +1612,7 @@ Please RSVP to **yuk.fai.chan@owasp.org** to confirm your presence.
 
 **Heartbleed\! or Heart Bleed\!**
 
-[Heartbleed](https://www.owasp.org/images/d/d5/OWASP-Toronto-2014-04-23_Sapiro_Heartbleed.pdf)
+[Heartbleed](/www-pdf-archive/OWASP-Toronto-2014-04-23_Sapiro_Heartbleed.pdf)
 
 Heartbleed\! or Heart Bleed\! The logo, the media coverage, the virus
 (no wait, it's not a virus); reverse Heartbleed and client Heartbleed
@@ -1644,7 +1644,7 @@ about (when reliving the glory days) are Sybase and Motorola.
 Please RSVP to **yuk.fai.chan@owasp.org** to confirm your presence.
 
 **OWASP ASVS** [OWASP: Introducing
-ASVS 2013](https://www.owasp.org/images/0/0d/Introducing_ASVS_2013.pdf)
+ASVS 2013](/www-pdf-archive/Introducing_ASVS_2013.pdf)
 
 Since the last release of the OWASP Application Security Verification
 Standard (ASVS) Project in 2009, significant improvements have been
@@ -1689,7 +1689,7 @@ to confirm your presence.
 **OWASP: Beyond the Top 10**
 
 [OWASP: Beyond the
-Top 10](https://www.owasp.org/images/b/be/OWASP_-_Beyond_the_Top_10_-_Presentation_-_Distrib_Toronto_Jul_2013.pdf)
+Top 10](/www-pdf-archive/OWASP_-_Beyond_the_Top_10_-_Presentation_-_Distrib_Toronto_Jul_2013.pdf)
 
 Presenter: Andre Rochefort, TELUS
 
@@ -1724,7 +1724,7 @@ Please RSVP to **yuk.fai.chan@owasp.org** to confirm your presence.
 **Secure Code Review**
 
 [Security Code
-Review](https://www.owasp.org/images/b/b0/SecureCodeReview.pdf)
+Review](/www-pdf-archive/SecureCodeReview.pdf)
 
 Presenter: Sherif Koussa
 
@@ -1752,7 +1752,7 @@ important that you RSVP at yuk.fai.chan@owasp.org to confirm your
 presence\!*
 
 [NFC Threat
-Landscape](https://www.owasp.org/images/3/38/NFC_Threat_Landscape_OWASP_Toronto_March_2013.pdf)
+Landscape](/www-pdf-archive/NFC_Threat_Landscape_OWASP_Toronto_March_2013.pdf)
 
 Presenter: Geoff Vaughan, Security Compass
 
@@ -1804,7 +1804,7 @@ security of Mozilla web properties and end-user applications.
 -----
 
 **Thursday, May 10th 2012, 6:30-8:00 PM EDT** - *[Application Security
-ISO](https://www.owasp.org/images/6/64/ISO_27034_review_%28OWASP_Toronto_May_10%2C_2012%29.pdf)*
+ISO](/www-pdf-archive/ISO_27034_review_%28OWASP_Toronto_May_10%2C_2012%29.pdf)*
 
 **Location:
 \[<http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=315+Front+Street+West,+Toronto,+Ontario,+Canada>,
@@ -2258,7 +2258,7 @@ applications.
 
 **Presenters:** Tom Aratyn (Developer ExploitMe Series), Sahba Kazerooni
 (Security Consultant, Security Compass) [[Link
-title](Link_title "wikilink")]([[Link_title "wikilink")
+title](Link_title )]([[Link_title )
 
 -----
 
@@ -2335,7 +2335,7 @@ The past presentations are available for download from here. If you have
 any comments on the presentations please send them to us.
 
 [Security Monitoring with Azure App Gateway, Log Analytics and Azure
-Sentinel](https://www.owasp.org/images/1/1a/Security_Monitoring_with_Azure_App_Gateway%2C_Log_Analytics_and_Azure_Sentinel.pdf)
+Sentinel](/www-pdf-archive/Security_Monitoring_with_Azure_App_Gateway%2C_Log_Analytics_and_Azure_Sentinel.pdf)
 by Roy Kim, August 2019
 
 [Export to
@@ -2448,5 +2448,5 @@ by Ryan Berg, Sonatype, September 2014
 
 <headertabs />
 
-[Category:Ontario](Category:Ontario "wikilink")
-[Category:Canada](Category:Canada "wikilink")
+[Category:Ontario](Category:Ontario )
+[Category:Canada](Category:Canada )
