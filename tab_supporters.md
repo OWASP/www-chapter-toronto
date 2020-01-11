@@ -1,9 +1,10 @@
 ---
 title: supporters
+displaytext: Chapter Supporters
 layout:  null
 tab: true
 order: 1
-tags: example-tag
+tags: supporters-tag
 ---
 
 ## Supporters
