@@ -1,5 +1,5 @@
 ---
-title: Chapter Supporters
+title: supporters
 displaytext: Chapter Supporters
 layout: null
 tab: true
