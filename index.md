@@ -3,7 +3,6 @@
 layout: col-sidebar
 title: OWASP Toronto
 tags: example-tag
-level: 0
 
 region: Canada
 
