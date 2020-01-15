@@ -5,13 +5,6 @@ tab: true
 order: 4
 tags: canada
 ---
-
-[Home Page](index.md)
-&nbsp;&nbsp;&nbsp;[Chapter Leadership](leaders.md)
-&nbsp;&nbsp;&nbsp;[Supporters](Supporters.md)
-&nbsp;&nbsp;&nbsp;[Past Events](pastevents.md)
-&nbsp;&nbsp;&nbsp;<strong>Past Presentations for Download</strong>
-
 Past Presentations for Download
 -------------------------------
 The past presentations are available for download from here. If you have any comments on the presentations please send them to us. 
