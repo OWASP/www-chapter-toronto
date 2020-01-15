@@ -10,7 +10,7 @@ tags: canada
 
 The past presentations are available for download from here. If you have any comments on the presentations please send them to us. 
 
-* [OWASP IoT Top 10 - Exploring Vulnerability Root Causes](assets/slides/2019-12-11-OWASP-IoT-Top-10---Introduction-and-Root-Causes.pdf)//[Video](https://www.youtube.com/watch?v=jwxe4MqmDtg&feature=share) by Nicholas Johnston, December 2019
+* [OWASP IoT Top 10 - Exploring Vulnerability Root Causes](assets/slides/2019-12-11-OWASP-IoT-Top-10---Introduction-and-Root-Causes.pdf) | [Video](https://www.youtube.com/watch?v=jwxe4MqmDtg&feature=share) by Nicholas Johnston, December 2019
 
 * [Half a Decade in Review: On Accidental Hacking and the "Hard" Conversations](assets/slides/Half_a_Decade_in_review_04.pptx) by Alana Staszczyszyn, October 2019
 
