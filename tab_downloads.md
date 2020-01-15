@@ -64,7 +64,7 @@ The past presentations are available for download from here. If you have any com
 
 * [OWASP: Beyond the Top 10](assets/slides/OWASP_-_Beyond_the_Top_10_-_Presentation_-_Distrib_Toronto_Jul_2013.pdf) by Andre Rochefort, TELUS, July 2013
 
-* [[Heartbleed](assets/slides/OWASP-Toronto-2014-04-23_Sapiro_Heartbleed.pdf) by Ben Sapiro, April 2014
+* [Heartbleed](assets/slides/OWASP-Toronto-2014-04-23_Sapiro_Heartbleed.pdf) by Ben Sapiro, April 2014
 
 * [DDoS Attacks and Mitigation in Cloud Environments](assets/slides/OWASP_Toronto_Jul_2014_DoS_Attack_Mitigation_in_Cloud_Mark_Schtern.pdf) by Mark Shtern, July 2014
 
