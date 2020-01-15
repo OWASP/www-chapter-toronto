@@ -27,23 +27,23 @@ Upcoming Sessions
 Increasingly shorter agile development sprints and mandatory security assessments are putting pressure on product teams to deliver secure applications faster than ever. Further, inorganic adoption of security tooling sometimes creates information overload that does more harm than good.
 
 What’s going wrong:
-• Results from SAST, DAST and SCA tools create large vulnerabilities data sets that are difficult to act upon.
-• Automated scan results from security tools are replete with false positives and duplicate entries that make remediation troublesome.
-• Manual methods of triaging vulnerability data sets are inefficient and lower productivity.
-• Improper vulnerability management increases friction between security and engineering teams.
+* Results from SAST, DAST and SCA tools create large vulnerabilities data sets that are difficult to act upon.
+* Automated scan results from security tools are replete with false positives and duplicate entries that make remediation troublesome.
+* Manual methods of triaging vulnerability data sets are inefficient and lower productivity.
+* Improper vulnerability management increases friction between security and engineering teams.
 
 What the audience will glean from this talk:
-• How automated methods of vulnerability correlation and de-duplication can significantly reduce your AppSec testing time.
-• How to effectively integrate vulnerability remediation with the engineering workflow.
-• Understand the basic anatomy of a vulnerability to effectively prioritise and fix security bugs faster and better!
+* How automated methods of vulnerability correlation and de-duplication can significantly reduce your AppSec testing time.
+* How to effectively integrate vulnerability remediation with the engineering workflow.
+* Understand the basic anatomy of a vulnerability to effectively prioritise and fix security bugs faster and better!
 
 Why should they care:
-• Without a change in approach, application security professionals and engineering teams will continue to delay development schedules and product release dates, or risk releasing a product that is not entirely secure.
+* Without a change in approach, application security professionals and engineering teams will continue to delay development schedules and product release dates, or risk releasing a product that is not entirely secure.
 
 Who should attend:
-• Security professionals who face problems managing vulnerabilities.
-• Engineering teams who find the current vulnerability remediation workflow problematic.
-• CISO’s who want to lay down a mature and efficient AppSec Program.
+* Security professionals who face problems managing vulnerabilities.
+* Engineering teams who find the current vulnerability remediation workflow problematic.
+* CISO’s who want to lay down a mature and efficient AppSec Program.
 
 **Presenter bio:**
 
