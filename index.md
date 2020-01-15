@@ -3,6 +3,7 @@
 layout: col-sidebar
 title: OWASP Toronto
 tags: canada
+level: 4
 region: Canada
 ---
 
