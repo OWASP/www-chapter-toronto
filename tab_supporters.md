@@ -2,8 +2,8 @@
 title: Supporters
 layout:  null
 tab: true
-order: 1
-tags: example-tag
+order: 2
+tags: canada
 ---
 
 [Home Page](index.md)
