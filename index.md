@@ -7,8 +7,7 @@ level: 4
 region: Canada
 ---
 
-OWASP Toronto
--------------
+![Toronto Chapter Logo](assets/images/OWASPTorontoChapterLogo.jpg)
 
 Welcome to the Toronto chapter homepage.
 
