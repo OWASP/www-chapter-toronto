@@ -2,12 +2,8 @@
 
 layout: col-sidebar
 title: OWASP Toronto
-tags: example-tag
-
+tags: canada
 region: Canada
-
-auto-migrated: 1
-
 ---
 
 <strong>Home Page</strong>
