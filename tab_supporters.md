@@ -5,13 +5,6 @@ tab: true
 order: 2
 tags: canada
 ---
-
-[Home Page](index.md)
-&nbsp;&nbsp;&nbsp;[Chapter Leadership](leadership.md)
-&nbsp;&nbsp;&nbsp;<strong>Supporters</strong>
-&nbsp;&nbsp;&nbsp;[Past Events](pastevents.md)
-&nbsp;&nbsp;&nbsp;[Past Presentations for Download](downloads.md)
-
 Supporters
 ----------
 
