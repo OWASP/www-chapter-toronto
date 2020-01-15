@@ -25,6 +25,7 @@ tags: canada
 ---
 
 **Date/Time:** December 11, 2019, 6:30 PM to 8:30 PM EDT
+
 **Location:** Room 128 (on the first floor near the library), St. James Campus - Building A, George Brown College, 200 King Street East, Toronto, ON, M5A 3W8
 
 **Presentation summary:**
