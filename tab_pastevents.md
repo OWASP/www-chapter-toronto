@@ -6,12 +6,6 @@ order: 3
 tags: canada
 ---
 
-[Home Page](index.md)
-&nbsp;&nbsp;&nbsp;[Chapter Leadership](leaders.md)
-&nbsp;&nbsp;&nbsp;[Supporters](Supporters.md)
-&nbsp;&nbsp;&nbsp;<strong>Past Events</strong>
-&nbsp;&nbsp;&nbsp;[Past Presentations for Download](downloads.md)
-
 ## Past Events ##
 
 * [2019](#2019)
