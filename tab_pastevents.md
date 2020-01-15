@@ -2,8 +2,8 @@
 title: pastevents
 layout:  null
 tab: true
-order: 1
-tags: example-tag
+order: 3
+tags: canada
 ---
 
 [Home Page](index.md)
