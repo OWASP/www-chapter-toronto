@@ -7,13 +7,6 @@ level: 4
 region: Canada
 ---
 
-<strong>Home Page</strong>
-&nbsp;&nbsp;&nbsp;[Chapter Leadership](leaders.md)
-&nbsp;&nbsp;&nbsp;[Supporters](Supporters.md)
-&nbsp;&nbsp;&nbsp;[Past Events](pastevents.md)
-&nbsp;&nbsp;&nbsp;[Past Presentations for Download](downloads.md)
-
-
 OWASP Toronto
 -------------
 
