@@ -10,7 +10,7 @@ tags: canada
 
 The past presentations are available for download from here. If you have any comments on the presentations please send them to us. 
 
-* [OWASP IoT Top 10 - Exploring Vulnerability Root Causes](assets/slides/2019-12-11-OWASP-IoT-Top-10---Introduction-and-Root-Causes.pdf)[Video](https://www.youtube.com/watch?v=jwxe4MqmDtg&feature=share) by Nicholas Johnston, December 2019
+* [OWASP IoT Top 10 - Exploring Vulnerability Root Causes](assets/slides/2019-12-11-OWASP-IoT-Top-10---Introduction-and-Root-Causes.pdf)//[Video](https://www.youtube.com/watch?v=jwxe4MqmDtg&feature=share) by Nicholas Johnston, December 2019
 
 * [Half a Decade in Review: On Accidental Hacking and the "Hard" Conversations](assets/slides/Half_a_Decade_in_review_04.pptx) by Alana Staszczyszyn, October 2019
 
@@ -18,7 +18,7 @@ The past presentations are available for download from here. If you have any com
 
 * [Export to RCE](assets/slides/ExporttoRCE.pdf) by Adam Greenhill, July 2019
 
-* De-identification [Video](https://drive.google.com/file/d/1t94O1tLXbSujW94UK4EmqtdBtOXEiA7b/view) by Erik Service, April 2019 [1](https://www.youtube.com/watch?v=gI0wk1CXlsQ)[2](https://www.youtube.com/watch?v=lg-VhHlztqo)[3](http://www.ehealthinformation.ca/wp-content/uploads/2014/08/2009-Tools-for-De-Identification-of-Personal-Health.pdf)[4](http://shop.oreilly.com/product/0636920029229.do)
+* [De-identification](https://drive.google.com/file/d/1t94O1tLXbSujW94UK4EmqtdBtOXEiA7b/view) by Erik Service, April 2019, Additional resources: [1](https://www.youtube.com/watch?v=gI0wk1CXlsQ),[2](https://www.youtube.com/watch?v=lg-VhHlztqo),[3](http://www.ehealthinformation.ca/wp-content/uploads/2014/08/2009-Tools-for-De-Identification-of-Personal-Health.pdf),[4](http://shop.oreilly.com/product/0636920029229.do)
 
 * [In Root we trust (no this is not a DNS talk)](assets/slides/OWASP-Toronto-Feb-2019-In_Root_we_Trust.pdf) by Pavan Chander and Lisa Bui, February 2019
 
