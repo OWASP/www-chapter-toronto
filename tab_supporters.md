@@ -6,8 +6,8 @@ order: 2
 tags: canada
 ---
 
-Supporters
-----------
+## Supporters
+
 
 We would like to thank the following organizations for their support and
 contribution to the local Toronto chapter\!
