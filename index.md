@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Toronto
 tags: canada
 level: 4
-region: Canada
+region: North America
 ---
 
 ![Toronto Chapter Logo](assets/images/OWASPTorontoChapterLogo.jpg)
