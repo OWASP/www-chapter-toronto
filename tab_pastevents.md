@@ -31,7 +31,7 @@ tags: canada
 
 **Presentation summary:**
 
-**February 2020 Event - War in the Fifth Dimension: A Cyberwar Primer**
+**War in the Fifth Dimension: A Cyberwar Primer**
 
 
 What defines a cyberwar? Does cyberwarfare actually exist, or are cyber attacks just a means of enacting warfare in the kinetic world? And, more importantly, will escalating political tensions ever result in a cyber conflict, or are we already in the middle of a global cyber cold war?
