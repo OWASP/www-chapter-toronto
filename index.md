@@ -15,6 +15,8 @@ Welcome to the Toronto chapter homepage.
 Upcoming Sessions
 -----------------
 
+**SPACE IS LIMITED! FIRST COME FIRST SERVE**
+
 **Date/Time**: March 24, 2020, 6:30 PM to 8:30 PM EDT
 
 **Location**: Okta Offices located at 642 King Street West, 2nd Floor, Toronto, ON, M5V 1M7
