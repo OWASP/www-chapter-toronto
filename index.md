@@ -19,7 +19,7 @@ Upcoming Sessions
 
 **Date/Time**: March 24, 2020, 6:30 PM to 8:30 PM EDT
 
-**Location**: Okta Offices located at 642 King Street West, 2nd Floor, Toronto, ON, M5V 1M7
+**Location**: Virtually at Okta's Zoom: https://okta.zoom.us/j/442159392
 
 **Presentation summary:**
 
