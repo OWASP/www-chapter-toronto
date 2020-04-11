@@ -10,6 +10,8 @@ tags: canada
 
 The past presentations are available for download from here. If you have any comments on the presentations please send them to us. 
 
+* [Creating a Security Centric Development Organization](https://www.slideshare.net/varrunramani/shifting-security-left) by Varrun Ramani, March 24, 2020 [Video](https://okta.zoom.us/rec/play/6J17Jbv8rDI3HoWXtASDAfMrW43oK6ys23Ma_qcPnkfhBnRWN1vyMrUSa-u7xE8GsjA2iEeS__sATVeJ) [Examples](https://github.com/varrunr-ecorp/security-automation)
+
 * [OWASP IoT Top 10 - Exploring Vulnerability Root Causes](assets/slides/2019-12-11-OWASP-IoT-Top-10---Introduction-and-Root-Causes.pdf) ([Video Recording](https://www.youtube.com/watch?v=jwxe4MqmDtg&feature=share)) by Nicholas Johnston, December 2019
 
 * [Half a Decade in Review: On Accidental Hacking and the "Hard" Conversations](assets/slides/Half_a_Decade_in_review_04.pptx) by Alana Staszczyszyn, October 2019
