@@ -15,28 +15,20 @@ Welcome to the Toronto chapter homepage.
 Upcoming Sessions
 -----------------
 
-**SPACE IS LIMITED! FIRST COME FIRST SERVE**
+**Date/Time**: April 22, 2020, 6:30 PM to 8:30 PM EDT
 
-**Date/Time**: March 24, 2020, 6:30 PM to 8:30 PM EDT
-
-**Location**: Virtually at Okta's Zoom: https://okta.zoom.us/j/442159392
+**Location**: Virtually on YouTube: https://www.youtube.com/watch?v=RlKZXiHKaG4
 
 **Presentation summary:**
 
-**Shifting Security Left: Creating a Security Centric Development Organization**
+**Lift and Adrift: Understanding Threats in an AWS Environment**
 
-Software as a Service(SaaS) delivery is agile, undergoes fast iterations and needs to ship early to provide value to customers. Security can be more often than not an after-thought and vulnerabilities found after release can be expensive to fix or re-architect. Security teams don't scale with the size of the development organization and there is an increasing need to include security as early in the development lifecycle as possible. This talk will cover:
+The security landscape continues to change as more workloads migrate to cloud services such as AWS. At this point, attacks targeting on-premise environments are generally well understood and mitigated. However, the complexity of cloud services and the ease with which they can be used lead to an array of new attack vectors arising from misconfigured resources.
 
-1. Strategies and tools to embed security early within the CI/CD pipeline with examples.
-2. The need to build secure-by-default libraries and software design to abstract security away from the developer with focus on a JAVA stack
-3. Fostering a culture of security within a development organization
-4. Data driven approaches to reduce time to patch vulnerabilities while mitigating risk of regression
-
-Who is this talk for?
-This talk is for security engineers looking to be closer to their development organization or developers looking to scale security within their organization.
+This talk will provide examples of these new attack vectors in AWS environments, ways to identify these vectors, and finally steps to mitigate them (individually and across an organisation). It is intended to be an introductory talk, and does not require advanced knowledge of AWS services.
 
 **Presenter bio:**
 
-**Varrun Ramani**
+**Jason Plummer**
 
-Varrun is the tech lead of the Engineering Security team at Okta, a cloud based enterprise identity company. His interest in security started with participating in CTFs and organizing them, leading to a stint on the offensive side as a security engineer at VMware. His passion for building things led him to Okta where he builds features and tools to keep the platform and product secure and evangelizes security among developers.
+Jason Plummer is a Senior Security Consultant at Security Compass in Toronto, focusing on the offensive side of security. He spends most days at the intersection of application and cloud security. Prior to going on the offensive, Jason spent time on the defensive side with experience in the SOC and his national CSIRT.
