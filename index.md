@@ -15,20 +15,29 @@ Welcome to the Toronto chapter homepage.
 Upcoming Sessions
 -----------------
 
-**Date/Time**: April 22, 2020, 6:30 PM to 8:30 PM EDT
+**Date/Time**: May 6, 2020, 6:30 PM to 8:30 PM EDT
 
-**Location**: Virtually on YouTube: https://www.youtube.com/watch?v=RlKZXiHKaG4
+**Location**: Virtually on YouTube: https://www.youtube.com/watch?v=AJhn2aryehY
 
 **Presentation summary:**
 
-**Lift and Adrift: Understanding Threats in an AWS Environment**
+**Detect complex code patterns using semantic grep**
 
-The security landscape continues to change as more workloads migrate to cloud services such as AWS. At this point, attacks targeting on-premise environments are generally well understood and mitigated. However, the complexity of cloud services and the ease with which they can be used lead to an array of new attack vectors arising from misconfigured resources.
+In this talk we’ll discuss a program analysis tool we’re developing called sgrep. It's a multilingual semantic tool for writing security and correctness queries on source code (for Python, Java, Go, C, and JS) with a simple “grep-like” interface. The original author, Yoann Padioleau, worked on sgrep’s predecessor, Coccinelle, for Linux kernel refactoring, and later developed sgrep while at Facebook. He’s now full time with us at r2c.
 
-This talk will provide examples of these new attack vectors in AWS environments, ways to identify these vectors, and finally steps to mitigate them (individually and across an organisation). It is intended to be an introductory talk, and does not require advanced knowledge of AWS services.
+sgrep is the query system underpinning Bento, a free open-source program analysis toolkit that finds bugs using custom analysis we’ve written and OSS code checks. Bento is ideal for security researchers, product security engineers, and developers who want to find complex code patterns without extensive knowledge of ASTs or advanced program analysis concepts.
+
+For example, find subprocess calls with shell=True in Python using the query:
+subprocess.open(..., shell=True)
+This will even find snippets like:
+import subprocess as s
+s.open(f'rm {args}', shell=True)
+
+Or find hardcoded credentials using the query:
+boto3.client(..., aws_secret_access_key=”...”, aws_access_key_id=”...” )
 
 **Presenter bio:**
 
-**Jason Plummer**
+**Drew Dennison**
 
-Jason Plummer is a Senior Security Consultant at Security Compass in Toronto, focusing on the offensive side of security. He spends most days at the intersection of application and cloud security. Prior to going on the offensive, Jason spent time on the defensive side with experience in the SOC and his national CSIRT.
+Drew Dennison is the CTO & co-founder of r2c, a startup working to profoundly improve software security and reliability to safeguard human progress. Previously at Palantir, he led data-driven cyber insurance platform development and technical incident response on major data leaks for Fortune 100 companies. Drew received his degree in Computer Science from MIT. He lives in SF and spends his free time racing sailboats, camping, and trying to outsmart his two cats.
