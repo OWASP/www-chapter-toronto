@@ -10,6 +10,10 @@ tags: canada
 
 The past presentations are available for download from here. If you have any comments on the presentations please send them to us. **Please note some presenters choose not to share their material.**
 
+* [Detect complex code patterns using semantic grep](https://github.com/OWASP/www-chapter-toronto/blob/master/assets/slides/Detect%20complex%20code%20patterns%20using%20semantic%20grep_r2c.pdf) by Drew Dennison, May 6, 2020
+
+* [Shifting Security Left: Creating a Security Centric Development Organization](https://www.slideshare.net/varrunramani/shifting-security-left) by Varrun Ramani, March 2020
+
 * [Creating a Security Centric Development Organization](https://www.slideshare.net/varrunramani/shifting-security-left) by Varrun Ramani, March 24, 2020 [[Video]](https://okta.zoom.us/rec/play/6J17Jbv8rDI3HoWXtASDAfMrW43oK6ys23Ma_qcPnkfhBnRWN1vyMrUSa-u7xE8GsjA2iEeS__sATVeJ) [[Examples]](https://github.com/varrunr-ecorp/security-automation)
 
 * [OWASP IoT Top 10 - Exploring Vulnerability Root Causes](assets/slides/2019-12-11-OWASP-IoT-Top-10---Introduction-and-Root-Causes.pdf) ([Video Recording](https://www.youtube.com/watch?v=jwxe4MqmDtg&feature=share)) by Nicholas Johnston, December 2019
