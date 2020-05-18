@@ -12,13 +12,13 @@ The past presentations are available for download from here. If you have any com
 
 * [Software Security Initiative – The Basics](https://www.youtube.com/watch?v=MkkP66tt5Ws) by Eli Erlikhman, May 20, 2020
 
-* [Detect complex code patterns using semantic grep](https://github.com/OWASP/www-chapter-toronto/blob/master/assets/slides/Detect%20complex%20code%20patterns%20using%20semantic%20grep_r2c.pdf) by Drew Dennison, May 6, 2020 [Video](https://www.youtube.com/watch?v=h6PQdKf5vw4)
+* [Detect complex code patterns using semantic grep](https://github.com/OWASP/www-chapter-toronto/blob/master/assets/slides/Detect%20complex%20code%20patterns%20using%20semantic%20grep_r2c.pdf) by Drew Dennison, May 6, 2020 [[Video]](https://www.youtube.com/watch?v=h6PQdKf5vw4)
 
 * [Lift and Adrift: Understanding Threats in an AWS Environment](https://www.youtube.com/watch?v=VBLt6kf5Nrg) by Jason Plummer, April 22, 2020
 
 * [Creating a Security Centric Development Organization](https://www.slideshare.net/varrunramani/shifting-security-left) by Varrun Ramani, March 24, 2020 [[Video]](https://okta.zoom.us/rec/play/6J17Jbv8rDI3HoWXtASDAfMrW43oK6ys23Ma_qcPnkfhBnRWN1vyMrUSa-u7xE8GsjA2iEeS__sATVeJ) [[Examples]](https://github.com/varrunr-ecorp/security-automation)
 
-* [OWASP IoT Top 10 - Exploring Vulnerability Root Causes](assets/slides/2019-12-11-OWASP-IoT-Top-10---Introduction-and-Root-Causes.pdf) [Video](https://www.youtube.com/watch?v=jwxe4MqmDtg&feature=share) by Nicholas Johnston, December 2019
+* [OWASP IoT Top 10 - Exploring Vulnerability Root Causes](assets/slides/2019-12-11-OWASP-IoT-Top-10---Introduction-and-Root-Causes.pdf) [[Video]](https://www.youtube.com/watch?v=jwxe4MqmDtg&feature=share) by Nicholas Johnston, December 2019
 
 * [Half a Decade in Review: On Accidental Hacking and the "Hard" Conversations](assets/slides/Half_a_Decade_in_review_04.pptx) by Alana Staszczyszyn, October 2019
 
