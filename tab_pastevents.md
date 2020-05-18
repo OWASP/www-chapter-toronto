@@ -51,6 +51,7 @@ boto3.client(..., aws_secret_access_key=”...”, aws_access_key_id=”...” )
 **Drew Dennison**
 
 Drew Dennison is the CTO & co-founder of r2c, a startup working to profoundly improve software security and reliability to safeguard human progress. Previously at Palantir, he led data-driven cyber insurance platform development and technical incident response on major data leaks for Fortune 100 companies. Drew received his degree in Computer Science from MIT. He lives in SF and spends his free time racing sailboats, camping, and trying to outsmart his two cats.
+
 ---
 
 **Date/Time**: April 22, 2020, 6:30 PM to 8:30 PM EDT
