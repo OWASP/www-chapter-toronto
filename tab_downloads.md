@@ -10,7 +10,7 @@ tags: canada
 
 The past presentations are available for download from here. If you have any comments on the presentations please send them to us. **Please note some presenters choose not to share their material.**
 
-* [Software Security Initiative – The Basics](https://www.youtube.com/watch?v=MkkP66tt5Ws) by Eli Erlikhman, May 20, 2020
+* [Software Security Initiative – The Basics](https://github.com/OWASP/www-chapter-toronto/blob/master/assets/slides/Synopsys%20-%20Software%20Security%20Initiative%20%E2%80%93%20The%20Basics.pdf) by Eli Erlikhman, May 20, 2020 [[Video]](https://www.youtube.com/watch?v=MkkP66tt5Ws)
 
 * [Detect complex code patterns using semantic grep](https://github.com/OWASP/www-chapter-toronto/blob/master/assets/slides/Detect%20complex%20code%20patterns%20using%20semantic%20grep_r2c.pdf) by Drew Dennison, May 6, 2020 [[Video]](https://www.youtube.com/watch?v=h6PQdKf5vw4)
 
