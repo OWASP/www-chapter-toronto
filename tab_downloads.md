@@ -14,7 +14,7 @@ The past presentations are available for download from here. If you have any com
 
 * [Detect complex code patterns using semantic grep](https://github.com/OWASP/www-chapter-toronto/blob/master/assets/slides/Detect%20complex%20code%20patterns%20using%20semantic%20grep_r2c.pdf) by Drew Dennison, May 6, 2020 [[Video]](https://www.youtube.com/watch?v=h6PQdKf5vw4)
 
-* [Lift and Adrift: Understanding Threats in an AWS Environment](https://www.youtube.com/watch?v=VBLt6kf5Nrg) by Jason Plummer, April 22, 2020
+* [Lift and Adrift: Understanding Threats in an AWS Environment](https://github.com/OWASP/www-chapter-toronto/blob/master/assets/slides/2020-04_OWASP_LiftAndAdrift.pdf) by Jason Plummer, April 22, 2020 [[Video]](https://www.youtube.com/watch?v=VBLt6kf5Nrg)
 
 * [Creating a Security Centric Development Organization](https://www.slideshare.net/varrunramani/shifting-security-left) by Varrun Ramani, March 24, 2020 [[Video]](https://okta.zoom.us/rec/play/6J17Jbv8rDI3HoWXtASDAfMrW43oK6ys23Ma_qcPnkfhBnRWN1vyMrUSa-u7xE8GsjA2iEeS__sATVeJ) [[Examples]](https://github.com/varrunr-ecorp/security-automation)
 
