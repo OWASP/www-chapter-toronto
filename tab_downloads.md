@@ -10,6 +10,8 @@ tags: canada
 
 The past presentations are available for download from here. If you have any comments on the presentations please send them to us. **Please note some presenters choose not to share their material.**
 
+* [Privacy in the Times of COVID-19 Pandemic](https://github.com/OWASP/www-chapter-toronto/blob/master/assets/slides/Presentation%20for%20OWASP%20Chapter%20June%202020%20-%20Privacy%20in%20the%20Times%20of%20COVID-19%20Pandemic.pdf) by Amalia Barthel and Craig Barretto, June 24, 2020 [[Video]](https://www.youtube.com/watch?v=OPauB_5ucaA)
+
 * [Software Security Initiative – The Basics](https://github.com/OWASP/www-chapter-toronto/blob/master/assets/slides/Synopsys%20-%20Software%20Security%20Initiative%20%E2%80%93%20The%20Basics.pdf) by Eli Erlikhman, May 20, 2020 [[Video]](https://www.youtube.com/watch?v=MkkP66tt5Ws)
 
 * [Detect complex code patterns using semantic grep](https://github.com/OWASP/www-chapter-toronto/blob/master/assets/slides/Detect%20complex%20code%20patterns%20using%20semantic%20grep_r2c.pdf) by Drew Dennison, May 6, 2020 [[Video]](https://www.youtube.com/watch?v=h6PQdKf5vw4)
