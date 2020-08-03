@@ -41,4 +41,5 @@ Watch this presentation and learn how to implement:
 **Presenter bio:**
 
 **Scott Holt**
+
 Scott is a security professional with experience working at both Lookout and Rapid7 previously. Today he works on ensuring users get the most out of their Linux infrastructure without compromising on best practices.
