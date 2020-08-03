@@ -19,30 +19,26 @@ Welcome to the Toronto chapter homepage.
 Upcoming Sessions
 -----------------
 
-**Date/Time**: June 24, 2020, 6:30 PM to 8:30 PM EDT
+**Date/Time**: August 19, 2020, 6:30 PM to 8:30 PM EDT
 
-**Location**: Virtually on YouTube: https://www.youtube.com/watch?v=OPauB_5ucaA
+**Location**: Virtually on YouTube: https://www.youtube.com/watch?v=MMQtgV-yv8Y
 
 **Presentation summary:**
 
-**Privacy in the Times of COVID-19 Pandemic**
+**How to Use Access Guardrails to Protect Your Cloud & Empower DevOps**
 
-The world post lock-down is changing. We are exploring how new ways of working and existing are introducing new privacy and security risks that we need to be aware of in this new Pandemic dominated world.
+Managing identities and access inside cloud environments is completely different from the corporate environment. We love Linux because it’s so fast to build and deploy web apps, but the minute you want to put any kind of centralized security or control over that environment, you risk running DevOps into the ground.
+
+The fact is, we need DevOps to run fast and lean, but we also need a centralized way to manage access, secure cloud-based systems, and enforce security policies on cloud hosts, virtualized servers, and containers. In this session, we’ll talk about moving from heavy-handed access control to lightweight, agile access guardrails that are built specifically for DevOps.
+
+Watch this presentation and learn how to implement:
+
+- Real-time user session monitoring for visibility and audit/compliance
+- Just-in-time access approvals and pre-execution blocks using 2FA or Slack/Teams
+- Threat detection and alerting for Linux based attack vectors
+- Identity-based policy for shared accounts and root-access users
 
 **Presenter bio:**
 
-**Amalia Barthel**
-
-Amalia is a GRC & Privacy professional who has made it her mission to educate businesses about the importance of privacy for their corporate reputation and resilience.
-
-Amalia works with Chief Privacy and Compliance Officers and CISOs in the health/Pharma, banking, telecom, the FinTech industry and Tech. /Cloud companies, retail, advertising/marketing, aerospace and public sector around the world, to advise on structuring the privacy program and alignment with internal GRC and CyberSecurity efforts.
-
-Amalia has authored/ co-authored many white papers and course material and is currently teaching business courses at University of Toronto, in the areas of IT Risk Management, Cybersecurity Risk Governance/Management and Privacy.
-
-Amalia served on the Canadian IAPP Advisory Board, PMI (as Director on the Board of Directors of the Southern Ontario Chapter - SOC, now Toronto Chapter), and as an Advisor to the ISACA Toronto Chapter where she is actively managing a Mentoring program (as a volunteer) meant to help young professional enter the privacy profession.
-
-**Craig Barretto**
-
-Craig is an information security consultant and co-founder of Proack Security in Toronto. He has a keen interest in offensive security, specifically application and infrastructure penetration testing.
-
-In his spare time, Craig enjoys staying up-to-date on the latest security trends and doing security research.
+**Scott Holt**
+Scott is a security professional with experience working at both Lookout and Rapid7 previously. Today he works on ensuring users get the most out of their Linux infrastructure without compromising on best practices.
