@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Toronto
 tags: canada
 level: 4
-region: North Americ
+region: North America
 meetup-group: OWASP-Toronto
 country: Canada
 postal-code: 
