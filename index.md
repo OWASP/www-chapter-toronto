@@ -20,10 +20,13 @@ Upcoming Sessions
 -----------------
 
 **Date/Time**: October 28, 2020, 6:30 PM to 8:30 PM EDT
+
 **Location**: online on YouTube: https://www.youtube.com/watch?v=ONJ4lsjxysU
 
 **TALK #1:**
+
 **------------**
+
 **Frida 101 - Testing Mobile Apps**
 
 **Summary:**
@@ -35,7 +38,9 @@ With support from the founder and many contributors to Frida, we have developed 
 Brian Lawrence, Director of Solution Engineering, NowSecure
 
 **TALK #2:**
+
 **------------**
+
 **High-level tactics for reverse engineering software
 
 **Summary:**
