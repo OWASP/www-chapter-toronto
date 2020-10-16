@@ -19,27 +19,30 @@ Welcome to the Toronto chapter homepage.
 Upcoming Sessions
 -----------------
 
-**Date/Time**: August 19, 2020, 6:30 PM to 8:30 PM EDT
+**Date/Time**: October 28, 2020, 6:30 PM to 8:30 PM EDT
+**Location**: online on YouTube: https://www.youtube.com/watch?v=ONJ4lsjxysU
 
-**Location**: Virtually on YouTube: https://www.youtube.com/watch?v=MMQtgV-yv8Y
+**TALK #1:**
+**------------**
+**Frida 101 - Testing Mobile Apps**
 
-**Presentation summary:**
+**Summary:**
+Frida is a world-renowned tool for security professionals in numerous fields. This open-source project gives analysts incredible visibility into executables at run time, allowing a security analyst to understand how a mobile app performs secure operations.
 
-**How to Use Access Guardrails to Protect Your Cloud & Empower DevOps**
+With support from the founder and many contributors to Frida, we have developed an introductory course for security professionals of all levels to begin to use this powerful tool. We will start at the beginning with reverse engineering basics, then move into Frida, and finally will provide some hands-on examples. We hope to empower security professionals to be more effective and build an important skill in the mobile appsec world.
 
-Managing identities and access inside cloud environments is completely different from the corporate environment. We love Linux because it’s so fast to build and deploy web apps, but the minute you want to put any kind of centralized security or control over that environment, you risk running DevOps into the ground.
+**Presenter:**
+Brian Lawrence, Director of Solution Engineering, NowSecure
 
-The fact is, we need DevOps to run fast and lean, but we also need a centralized way to manage access, secure cloud-based systems, and enforce security policies on cloud hosts, virtualized servers, and containers. In this session, we’ll talk about moving from heavy-handed access control to lightweight, agile access guardrails that are built specifically for DevOps.
+**TALK #2:**
+**------------**
+**High-level tactics for reverse engineering software
 
-Watch this presentation and learn how to implement:
+**Summary:**
+Reverse engineering is difficult. It's easy to get lost in a sea of assembly, not knowing what to review next. This quick talk provides guidance on how you can efficiently review a closed-source binary. The discussion will stick to reverse engineering in general and will not focus on any applied area like reviewing malware, performing exploit development, etc.
 
-- Real-time user session monitoring for visibility and audit/compliance
-- Just-in-time access approvals and pre-execution blocks using 2FA or Slack/Teams
-- Threat detection and alerting for Linux based attack vectors
-- Identity-based policy for shared accounts and root-access users
+**Presenter:**
+Adam Greenhill
 
-**Presenter bio:**
+Adam is a Senior Security Consultant with in-depth knowledge about application security and penetration testing. He has conducted countless network and web/mobile application security assessments. Adam also works regularly on more specialized projects such as testing IoT devices.
 
-**Scott Holt**
-
-Scott is a security professional with experience working at both Lookout and Rapid7 previously. Today he works on ensuring users get the most out of their Linux infrastructure without compromising on best practices.
