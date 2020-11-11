@@ -21,33 +21,34 @@ Upcoming Sessions
 
 **Date/Time**: October 28, 2020, 6:30 PM to 8:30 PM EDT
 
-**Location**: online on YouTube: https://www.youtube.com/watch?v=ONJ4lsjxysU
+**Location**: online on YouTube: https://www.youtube.com/watch?v=0fnEy1q0TZ0
 
 **TALK #1:**
 
 **------------**
 
-**Frida 101 - Testing Mobile Apps**
+**Designing a Security Champions Program From Scratch**
 
 **Summary:**
-Frida is a world-renowned tool for security professionals in numerous fields. This open-source project gives analysts incredible visibility into executables at run time, allowing a security analyst to understand how a mobile app performs secure operations.
 
-With support from the founder and many contributors to Frida, we have developed an introductory course for security professionals of all levels to begin to use this powerful tool. We will start at the beginning with reverse engineering basics, then move into Frida, and finally will provide some hands-on examples. We hope to empower security professionals to be more effective and build an important skill in the mobile appsec world.
+Security teams often have to try to foster a security culture in their organization while only representing a minuscule fraction of the entire engineering organization and competing against a number of other priorities. Security champions are seen as a way for security teams to extend their reach and impact. From a thousand foot view this can seem like an obvious solution; it doesn't make plain the friction many security teams will experience trying to implement this themselves.
 
 **Presenter:**
-Brian Lawrence, Director of Solution Engineering, NowSecure
+
+Connor McKinnon is a Security Engineer specializing in Application Security. His background includes extensive experience developing distributed full-stack web applications as well as project management in the roles of project lead, coach, and mentor.
+He is passionate about helping people better understand cyber security and inspiring developers and teams to adopt the mindset that security is everyone's responsibility.
 
 **TALK #2:**
 
 **------------**
 
-**High-level tactics for reverse engineering software
+**Introduction to Threat Modeling**
 
 **Summary:**
-Reverse engineering is difficult. It's easy to get lost in a sea of assembly, not knowing what to review next. This quick talk provides guidance on how you can efficiently review a closed-source binary. The discussion will stick to reverse engineering in general and will not focus on any applied area like reviewing malware, performing exploit development, etc.
+
+This talk will introduce the concept of Threat Modeling, summarize existing Threat Modeling methodologies, and deep-dive into one of these methodologies – Synopsys Threat Modeling Approach. The approach consists of three steps: model the application, threat analysis, and threat prioritization – we will explore each of these steps in details during the presentation.
 
 **Presenter:**
-Adam Greenhill
 
-Adam is a Senior Security Consultant with in-depth knowledge about application security and penetration testing. He has conducted countless network and web/mobile application security assessments. Adam also works regularly on more specialized projects such as testing IoT devices.
+Eli Erlikhman is a managing principal at Synopsys. He has a proven record of building application security programs, trusted advisor relationships, and strong delivery teams. As a managing principal and a certified Building Security In Maturity Model (BSIMM) expert, Eli advises clients on how to build software security programs, measure improvements and security posture, empower development teams, and solve strategic challenges. Eli specializes in the areas of threat modeling, security architecture, security programs, and penetration testing. 
 
