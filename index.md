@@ -19,36 +19,21 @@ Welcome to the Toronto chapter homepage.
 Upcoming Sessions
 -----------------
 
-**Date/Time**: October 28, 2020, 6:30 PM to 8:30 PM EDT
+**Date/Time**: December 16, 2020, 6:30 PM to 8:30 PM EDT
 
-**Location**: online on YouTube: https://www.youtube.com/watch?v=0fnEy1q0TZ0
+**Location**: online on YouTube: https://youtu.be/Y2D1sJ13yvA
 
-**TALK #1:**
-
-**------------**
-
-**Designing a Security Champions Program From Scratch**
+**EBS, TCF, SQLi, SMH: A cautionary tale about undocumented protocols and whac-a-mole patching**
 
 **Summary:**
 
-Security teams often have to try to foster a security culture in their organization while only representing a minuscule fraction of the entire engineering organization and competing against a number of other priorities. Security champions are seen as a way for security teams to extend their reach and impact. From a thousand foot view this can seem like an obvious solution; it doesn't make plain the friction many security teams will experience trying to implement this themselves.
+With the massive complexity and closed source, hush-hush nature of many enterprise software suites, it is nearly impossible to properly evaluate the risks associated with a "known" vulnerability. Even in an ideal situation where patches may be applied immediately, short-sighted development procedures can provide clear directions to attackers looking for poorly written patches or nearly identical vulnerabilities elsewhere in the product, leaving business critical systems vulnerable until someone discovers and reports the additional flaws and a patch is released.
+
+These problems become even more difficult to mitigate when vulnerabilities involve an undocumented component such as a custom protocol, especially when the mere existence of the protocol is hardly mentioned anywhere in the product documentation. While detecting malicious behaviour in a generic manner for well-known protocols is possible to some extent, detecting exploitation of a vulnerability involving a protocol that you didn't even know existed is an incredibly tall order.
+
+This talk aims to highlight the need for increased transparency from enterprise software vendors by showing the extensive effort required to truly understand the risks of a vulnerability involving an unknown protocol. It will detail the process behind researching a series of vulnerabilities in the undocumented Thin Client Framework (TCF) protocol, found in Oracle E-Business Suite, which were originally discovered by ERP security firm Onapsis. It will cover every aspect of the research process from the initial fact-finding stages, to developing a detailed understanding of TCF, analysis and exploitation of the vulnerabilities discovered by Onapsis, and finally how two additional vulnerabilities were discovered with near-zero effort.
 
 **Presenter:**
 
-Connor McKinnon is a Security Engineer specializing in Application Security. His background includes extensive experience developing distributed full-stack web applications as well as project management in the roles of project lead, coach, and mentor.
-He is passionate about helping people better understand cyber security and inspiring developers and teams to adopt the mindset that security is everyone's responsibility.
-
-**TALK #2:**
-
-**------------**
-
-**Introduction to Threat Modeling**
-
-**Summary:**
-
-This talk will introduce the concept of Threat Modeling, summarize existing Threat Modeling methodologies, and deep-dive into one of these methodologies – Synopsys Threat Modeling Approach. The approach consists of three steps: model the application, threat analysis, and threat prioritization – we will explore each of these steps in details during the presentation.
-
-**Presenter:**
-
-Eli Erlikhman is a managing principal at Synopsys. He has a proven record of building application security programs, trusted advisor relationships, and strong delivery teams. As a managing principal and a certified Building Security In Maturity Model (BSIMM) expert, Eli advises clients on how to build software security programs, measure improvements and security posture, empower development teams, and solve strategic challenges. Eli specializes in the areas of threat modeling, security architecture, security programs, and penetration testing. 
+John Simpson is a Staff Researcher and the Team Lead of the Vulnerability Research Service at Trend Micro in Toronto. He and his team specialize in N-day vulnerability research which involves root-cause analysis of vulnerabilities and devising network detection strategies for exploitation attempts. John graduated in 2015 from the Sheridan College Information Systems Security degree program and before his current position he worked as a consultant in roles such as SOC engineering, penetration testing, vulnerability assessments, and secure code auditing for a variety of industries including banking, insurance, and retail.
 
