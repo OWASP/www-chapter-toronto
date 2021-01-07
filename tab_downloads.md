@@ -10,6 +10,8 @@ tags: canada
 
 The past presentations are available for download from here. If you have any comments on the presentations please send them to us. **Please note some presenters choose not to share their material.**
 
+* [OWASP Toronto x ISC2 Cyber Toronto 2020 - Presentation Slides](https://github.com/OWASP/www-chapter-toronto/blob/master/assets/slides/Intro%20to%20OWASP%20%26%20it's%20projects.pdf) by the OWASP Team, December 3, 2020
+
 * [Frida 101 - Testing Mobile Apps](https://github.com/OWASP/www-chapter-toronto/blob/master/assets/slides/OWASP%20Frida%20101.pdf) by Brian Lawrence, October 28, 2020
 
 * [High-level tactics for reverse engineering software](https://docs.google.com/presentation/d/1UMSeSg29X66ZgQJIqx2RT1lZeCbl7xMq7BAzQiB1lVY/edit?usp=sharing) by Adam Greenhill, October 28, 2020
