@@ -19,21 +19,36 @@ Welcome to the Toronto chapter homepage.
 Upcoming Sessions
 -----------------
 
-**Date/Time**: December 16, 2020, 6:30 PM to 8:30 PM EDT
+**Date/Time**: January 20, 2020, 6:30 PM to 8:30 PM EDT
 
-**Location**: online on YouTube: https://youtu.be/Y2D1sJ13yvA
+**Location**: online on YouTube: https://youtu.be/HAj6qmHFpvY
 
-**EBS, TCF, SQLi, SMH: A cautionary tale about undocumented protocols and whac-a-mole patching**
+**TALK #1**
+**-----------**
+
+**Learn About Hackers for Change**
 
 **Summary:**
 
-With the massive complexity and closed source, hush-hush nature of many enterprise software suites, it is nearly impossible to properly evaluate the risks associated with a "known" vulnerability. Even in an ideal situation where patches may be applied immediately, short-sighted development procedures can provide clear directions to attackers looking for poorly written patches or nearly identical vulnerabilities elsewhere in the product, leaving business critical systems vulnerable until someone discovers and reports the additional flaws and a patch is released.
-
-These problems become even more difficult to mitigate when vulnerabilities involve an undocumented component such as a custom protocol, especially when the mere existence of the protocol is hardly mentioned anywhere in the product documentation. While detecting malicious behaviour in a generic manner for well-known protocols is possible to some extent, detecting exploitation of a vulnerability involving a protocol that you didn't even know existed is an incredibly tall order.
-
-This talk aims to highlight the need for increased transparency from enterprise software vendors by showing the extensive effort required to truly understand the risks of a vulnerability involving an unknown protocol. It will detail the process behind researching a series of vulnerabilities in the undocumented Thin Client Framework (TCF) protocol, found in Oracle E-Business Suite, which were originally discovered by ERP security firm Onapsis. It will cover every aspect of the research process from the initial fact-finding stages, to developing a detailed understanding of TCF, analysis and exploitation of the vulnerabilities discovered by Onapsis, and finally how two additional vulnerabilities were discovered with near-zero effort.
+Hackers for Change provides a unique volunteering opportunity for students passionate about hacking, or a professionals making a career change, to gain hands on experience by conducting penetration testing engagements, alongside a senior resource, for the organizations that need it the most. Hackers for change founder Manny Mand will talk about the organization and highlight current volunteering opportunities.
 
 **Presenter:**
 
-John Simpson is a Staff Researcher and the Team Lead of the Vulnerability Research Service at Trend Micro in Toronto. He and his team specialize in N-day vulnerability research which involves root-cause analysis of vulnerabilities and devising network detection strategies for exploitation attempts. John graduated in 2015 from the Sheridan College Information Systems Security degree program and before his current position he worked as a consultant in roles such as SOC engineering, penetration testing, vulnerability assessments, and secure code auditing for a variety of industries including banking, insurance, and retail.
+**Manny Mand**
 
+Manny is a cyber security consultant and the CEO of Hackers for Change. Manny channels his talents into securing the planet. He actively performs offensive security engagements for major financial institutions and fortune 500s. Additionally, Manny has collaborated on various vulnerability research projects. A notable example was OpenEMR, a medical record system that housed over 100 million patient records globally. A former assistant instructor at the University of Toronto, School of Continuing Studies, Manny strives to make cyber security programming accessible to all.
+
+**TALK #2**
+**------------**
+
+**Intro to OWASP’s ZED Attack Proxy**
+
+**Summary:**
+
+Called OWASP’s most underappreciated project by some (i.e., me), Zed attack proxy (ZAP) is great for both scanning web applications and manually inspecting them. This presentation will provide an overview of ZAP, tips on how to configure it for a nicer user experience, demos of common manual penetration testing use cases, as well as how to leverage its scanning capabilities. This talk is designed to be approachable, and is aimed at people who are interested in seeing what ZAP has to offer from a penetration testing, and web application scanning point of view.
+
+**Presenter:**
+
+**Jack Enders**
+
+Jack is a security consultant and volunteer with OWASP toronto. His interests include application and mobile security, as well as not getting enough sleep.
