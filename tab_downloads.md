@@ -10,6 +10,8 @@ tags: canada
 
 The past presentations are available for download from here. If you have any comments on the presentations please send them to us. **Please note some presenters choose not to share their material.**
 
+* [Introduction to OWASP Zap](https://docs.google.com/presentation/d/174dqCTssjaXuhuzMk8Xc813Vu1N-hwRmdxwvNJFa8hY/edit#slide=id.gb6fd44ec5a_1_112) by Jack Enders, January 20, 2021
+
 * [OWASP Toronto x ISC2 Cyber Toronto 2020 - Presentation Slides](https://github.com/OWASP/www-chapter-toronto/blob/master/assets/slides/Intro%20to%20OWASP%20%26%20it's%20projects.pdf) by the OWASP Team, December 3, 2020
 
 * [Frida 101 - Testing Mobile Apps](https://github.com/OWASP/www-chapter-toronto/blob/master/assets/slides/OWASP%20Frida%20101.pdf) by Brian Lawrence, October 28, 2020
