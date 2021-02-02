@@ -23,7 +23,7 @@ Upcoming Sessions
 
 **Location**: online using WealthSimple's Zoom: https://wealthsimple.zoom.us/webinar/register/WN_IgZHxfX7RbO4cfvP9qs3UA
 
-**Unicode vulnerabilities that could byͥte you**
+**Threat Modelling: An objectives-based primer**
 
 **Summary:**
 
