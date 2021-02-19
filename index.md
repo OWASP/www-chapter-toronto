@@ -19,22 +19,35 @@ Welcome to the Toronto chapter homepage.
 Upcoming Sessions
 -----------------
 
-**Date/Time**: February 17, 2021, 6:30 PM to 8:30 PM EDT
+**TALK #1**
+**-----------**
 
-**Location**: online on YouTube: https://www.youtube.com/watch?v=ZbVqHx8cznw
-
-**Unicode vulnerabilities that could byͥte you**
+**Technical Writing 101: A Pentester's Perspective**
 
 **Summary:**
 
-The number of Unicode code points has never stopped growing just like its integration in modern technologies. Web applications you have developed or used are likely to support input and output formatted in UTF-8 character encoding.
+This presentation is derived from my experience as an OffSec SME at KPMG. I’ve lead numerous pentest engagements, and when it comes down to doing QA on reports, I notice that a lot of people who are technically gifted are sometimes not able to communicate their amazing findings through a convincing and easy-to understand report that will be presented to people who are less technically inclined.
 
-In this talk, you will learn about the security implications of encoding conversion. Normalizing a UTF-8 string to ASCII only character has numerous potential side effects. The latest research affecting Unicode will be summarized including the HostSplit attack. The HostSplit attack abuses minor characters conversion to trigger open redirect or Server-Side Request Forgery (SSRF). Aside from normalization, uppercase and lowercase transformations can introduce vulnerabilities. Encoding can be used to circumvent security controls such as Web Application Firewalls. Additionally, punycode is the new representation to support domains with special characters outside of ASCII. This representation can be used to create visual confusion to end users.
-
-While some issues were patched in major software, many risks remain or are likely to resurface. Get ready for a complete summary of everything security professionals should know about Unicode!
+The focus of the talk is that, I hope to be able to help inform others on “good” vs “bad” writing language, format, and delivery from the offensive security stand point. Target audience is new grads, students, professionals, and pretty much anyone else including those at the executives level who are interested in creating impactful and easy-to-understand reports, as well as reading them and understanding the process of creating a pentest report.
 
 **Presenter:**
 
-**Philippe Arteau**
+**Ignatius Michael**
 
-Philippe is a security researcher working for GoSecure. His research is focused on Web application security. His past work experience includes pentesting, secure code review and software development. He is the author of the widely used Java static analysis tool OWASP Find Security Bugs (FSB). He is also a contributor to the static analysis tool for .NET called Security Code Scan. He built many plugins for Burp and ZAP proxy tools: Retire.js, Reissue Request Scripter, CSP Auditor and many others. Philippe has presented at several conferences including Black Hat Arsenal, SecTor, AppSec USA, ATLSecCon, NorthSec, and 44CON.
+I’m security enthusiast, passionate in all things security specifically within offensive security. Currently serving my second year at KPMG as a penetration tester (mobile, web app, and network). Pretty much a glorified script kiddie with OSCP who is currently enrolled in OSEP.
+
+
+**TALK #2**
+**-----------**
+
+**Cybersecurity Through the Eyes of Psychology**
+
+**Summary:**
+
+This presentation takes a look at how social engineering attacks work from a psychology perspective. Many cybersecurity issues are human problems, and human behaviour has been studied for longer than cybersecurity has existed as an industry. By understanding and explaining the drivers behind human behaviour, people and organizations can learn how to better protect themselves from attacks.
+
+**Presenter:**
+
+**Victoria G. (ISC2)**
+
+Victoria is the President of the (ISC)² Toronto Chapter board, where she works to create professional education opportunities and connects security groups across the GTA to advance the industry together. In industry, she is a Senior Information Security Consultant at a Big 5 Bank specializing in cybersecurity incident management and governance. Victoria also contributes as an occasional Instructor at York University in the Cybersecurity Certificate Program.
