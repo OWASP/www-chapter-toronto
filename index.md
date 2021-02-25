@@ -20,6 +20,7 @@ Upcoming Sessions
 -----------------
 
 **TALK #1**
+
 **-----------**
 
 **Technical Writing 101: A Pentester's Perspective**
@@ -38,6 +39,7 @@ I’m security enthusiast, passionate in all things security specifically within
 
 
 **TALK #2**
+
 **-----------**
 
 **Cybersecurity Through the Eyes of Psychology**
