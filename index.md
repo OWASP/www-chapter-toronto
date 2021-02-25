@@ -48,6 +48,6 @@ This presentation takes a look at how social engineering attacks work from a psy
 
 **Presenter:**
 
-**Victoria G. (ISC2)**
+**Victoria Granova (ISC2)**
 
 Victoria is the President of the (ISC)² Toronto Chapter board, where she works to create professional education opportunities and connects security groups across the GTA to advance the industry together. In industry, she is a Senior Information Security Consultant at a Big 5 Bank specializing in cybersecurity incident management and governance. Victoria also contributes as an occasional Instructor at York University in the Cybersecurity Certificate Program.
