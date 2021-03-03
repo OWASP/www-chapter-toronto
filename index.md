@@ -19,6 +19,10 @@ Welcome to the Toronto chapter homepage.
 Upcoming Sessions
 -----------------
 
+Date/Time: March 17, 2021, 6:30 PM to 8:30 PM EDT
+
+Location: online on YouTube: https://www.youtube.com/watch?v=nK6UaKw-244
+
 **TALK #1**
 
 **-----------**
