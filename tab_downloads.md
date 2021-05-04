@@ -10,7 +10,7 @@ tags: canada
 
 The past presentations are available for download from here. If you have any comments on the presentations please send them to us. **Please note some presenters choose not to share their material.**
 
-* [Testing OWASP Juice Shop with OWASP ZAP](https://github.com/OWASP/www-chapter-toronto/blob/master/assets/slides/Testing%20OWASP%20Juice%20Shop%20with%20OWASP%20ZAP.pdf) by Yuk Fai Chan, and [OWASP April 2021 Event - Hackable OWASP Educational Resources](https://github.com/OWASP/www-chapter-toronto/blob/master/assets/slides/OWASP%20April%202021%20Event%20-%20Hackable%20OWASP%20Educational%20Resources.html) by Opheliar Chan, April 29, 2021. [[video]](https://www.youtube.com/watch?v=4u94Arz2rO0)
+* [Testing OWASP Juice Shop with OWASP ZAP](https://github.com/OWASP/www-chapter-toronto/blob/master/assets/slides/Testing%20OWASP%20Juice%20Shop%20with%20OWASP%20ZAP.pdf) by Yuk Fai Chan, and [Hackable OWASP Educational Resources](https://github.com/OWASP/www-chapter-toronto/blob/master/assets/slides/OWASP%20April%202021%20Event%20-%20Hackable%20OWASP%20Educational%20Resources.html) by Opheliar Chan, April 29, 2021. [[video]](https://www.youtube.com/watch?v=4u94Arz2rO0)
 
 * [Unicode vulnerabilities that could byͥte you](https://github.com/OWASP/www-chapter-toronto/blob/master/assets/slides/philippe_arteau_owasp_unicode_v4.pdf) by Philippe Arteau, February 17, 2021. [[video]](https://www.youtube.com/watch?v=ZbVqHx8cznw)
 
