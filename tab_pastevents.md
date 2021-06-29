@@ -25,6 +25,46 @@ tags: canada
 * [2008](#2008)
 
 ### 2021 ###
+
+---
+
+**Date/Time:** July 14, 2020, 6:30 PM to 8:30 PM EDT
+**Location:** online on YouTube:  https://www.youtube.com/watch?v=oj7THZ8SEto
+
+**DevSecOps:** Why Aren’t IAST and RASP in Your Stack?
+
+**Summary:**
+
+Software is incredibly hard to secure because it's a black box. We've spent decades trying to verify properties of software by analyzing the source code, scanning, fuzzing, pentesting, etc... But the lack of context always leads to false positives, manual effort, long feedback loops, large security backlogs, and MTTR measured in months not days. In this talk, Jeff will demonstrate the power of "security observability" by using instrumentation (like a profiler, debugger, or APM tool) to quickly and easily expose critical security vulnerabilities and attacks from inside an application while it's running. First, Jeff will introduce Interactive Application Security Testing (IAST) and show you how *anyone* can use instrumentation to accurately identify complex vulnerabilities without scanning. Jeff will also show you how you can use Runtime Application Self-Protection (RASP) to leverage instrumentation to prevent your application from being exploited in production. Finally, Jeff will provide practical advice on DevSecOps transformation and building bridges between development and security.
+
+**Presenter:**
+
+**Jeff Williams**
+
+Jeff brings more than 20 years of security leadership experience as co-founder and Chief Technology Officer of Contrast Security. Previously, Jeff was co-founder and CEO of Aspect Security, a successful and innovative application security consulting company acquired by EY. Jeff is also a founder and major contributor to OWASP, where he served as Global Chairman for 10 years, and created the OWASP Top 10, OWASP Enterprise Security API, OWASP Application Security Verification Standard, XSS Prevention Cheat Sheet, and many more popular open source projects. Jeff has a BA from Virginia, an MA from George Mason, and a JD from Georgetown. https://www.linkedin.com/in/planetlevel/@planetlevel
+
+---
+
+**Date/Time:** June 9, 2021, 6:30 PM EST
+**Location:** online on Youtube: https://youtu.be/zzUvwRRv1lQ
+
+**Bringing Order to Static Analysis Security Testing**
+
+**Summary:**
+
+Software developers were always left with two hard choices, either use security tools that are not built for them, or use free/open-source tools that generate too many false positives and have poor coverage. One of the prime reasons for this dilemma is that traditionally the security workload was managed by application security teams who would find vulnerabilities and filter through false positives. Now with agile development and DevOps workflows, now there is no option for developers to opt out of secure development.
+
+New technology called DataLog solves that problem in a fundamentally different way, giving developers new hope. During this presentation we will go over:
+* how static code analysis has changed over the years
+* how DataLog technology solves some of the inherent problems of static code analysis such as speed, accuracy and coverage
+* how concepts like treating code as data, and partial evaluations are changing the game completely.
+
+We will also introduce a new static code analysis tool called Reshift which is built on top of open source tools and leverages DataLog technology. Reshift is changing the bad reputation that static code analysis amassed over the years and now developers can finally have it all - accuracy, speed and coverage.
+
+**Presenter: Sherif Koussa**
+
+Sherif Koussa is OWASP Ottawa Chapter Co-Leader, Software Developer, Hacker, and founder and CEO of Software Secured (https://www.softwaresecured.com) and Reshift (https://www.reshiftsecurity.com). In addition to contributing to OWASP Ottawa for over 14 years, Sherif contributed to WebGoat, and OWASP Cheat Sheets. Sherif also helped the SANS and GIAC organizations launch their GSSP-Java and GSSP-NET exams and contributed a few of their courses. After switching from the software development field to the security field, Sherif took on the mission of supporting developers shifting security left, and ship more secure code organically. Whether through training, penetration testing as a service or coaching development teams through shifting security, Sherif believes that any AppSec without the developer wouldn’t yield the best results. Sherif’s current venture, Reshift Security, is a static code analysis tool that is built for developers from the IDE, over to the code review and CI phases.
+
 ---
 
 Date/Time: April 29, 2021, 6:30 PM to 8:30 PM EDT
