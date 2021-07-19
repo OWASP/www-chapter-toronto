@@ -29,6 +29,7 @@ tags: canada
 ---
 
 **Date/Time**: August 11, 2021, 6:30 PM to 8:30 PM EDT
+
 **Location**: online on YouTube:  https://www.youtube.com/watch?v=zxCaPXCeqOM
 
 
@@ -47,6 +48,7 @@ Boominda is a senior consultant at Security Compass with more than 8 years of ex
 ---
 
 **Date/Time:** July 14, 2020, 6:30 PM to 8:30 PM EDT
+
 **Location:** online on YouTube:  https://www.youtube.com/watch?v=oj7THZ8SEto
 
 **DevSecOps:** Why Aren’t IAST and RASP in Your Stack?
