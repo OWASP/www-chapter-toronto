@@ -28,6 +28,24 @@ tags: canada
 
 ---
 
+**Date/Time**: August 11, 2021, 6:30 PM to 8:30 PM EDT
+**Location**: online on YouTube:  https://www.youtube.com/watch?v=zxCaPXCeqOM
+
+
+**Managing Secrets in Containers**
+
+**Summary:**
+
+Containers need to store and access secrets for tasks such as communicating with other microservices, calling back-end databases, and accessing other resources. In this session, we will look at how secrets management works in container orchestration platforms like Kubernetes and in secret management solutions like HashiCorp Vault. We will also be looking at concepts such as dynamic secrets, secret rotation and expiration, and on attack vectors and misconfigurations that may allow an attacker to steal secrets.
+
+**Presenter:**
+
+**Boominda Anushka**
+
+Boominda is a senior consultant at Security Compass with more than 8 years of experience in information security. He is an experienced penetration tester with in depth knowledge in application, network, cloud and container security. He has also worked as a systems integrator and have implemented security solutions such as SIEMs, PKI, WAFs and EDR solutions for enterprise clients. He holds a MSc in Information Security, BSc in IT along with certifications like CISSP, OSCP, CSSLP and CKS. 
+
+---
+
 **Date/Time:** July 14, 2020, 6:30 PM to 8:30 PM EDT
 **Location:** online on YouTube:  https://www.youtube.com/watch?v=oj7THZ8SEto
 
