@@ -28,6 +28,23 @@ tags: canada
 
 ---
 
+**Date/Time**: September 8, 2021, 6:30 PM to 8:30 PM EDT
+**Location**: online on YouTube:  https://www.youtube.com/watch?v=Wyun6p1qfog
+
+**Introducing the OWASP TimeGap Theory project**
+
+**Summary:**
+
+OWASP TimeGap Theory is a deliberately vulnerable application focusing on TOCTOU race condition vulnerabilities. In this talk, the presenter will be talking about TOCTOU race conditions and tools and techniques to find and exploit them.
+
+**Presenter:**
+
+**Abhi Balakrishnan**
+
+Abhi Balakrishnan is the creator of the OWASP TimeGap Theory project. He has also authored a book on this topic. Currently, he is working as a senior security consultant in the DevSecOps division of SecurityCompass, Toronto. 
+
+---
+
 **Date/Time**: August 11, 2021, 6:30 PM to 8:30 PM EDT
 
 **Location**: online on YouTube:  https://www.youtube.com/watch?v=zxCaPXCeqOM
