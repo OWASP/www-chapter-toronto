@@ -10,6 +10,8 @@ tags: canada
 
 The past presentations are available for download from here. If you have any comments on the presentations please send them to us. **Please note some presenters choose not to share their material.**
 
+* [DevSecOps Transformation on a Shoestring Budget](https://docs.google.com/presentation/d/1rnq3s3zZfcJqgDCeXEV3hOMHfjuRepM73-tY0yPe1NM/edit#slide=id.p) by Itay Gurvich, May 11, 2022
+
 * [OpenShift Container Platform – Security Features](https://drive.google.com/file/d/1eMCrapwAo8LukM6oUZyZfMwoN-TX5X96/view?usp=sharing) by Arvin Monie, October 6, 2021
 
 * [Testing OWASP Juice Shop with OWASP ZAP](https://github.com/OWASP/www-chapter-toronto/blob/master/assets/slides/Testing%20OWASP%20Juice%20Shop%20with%20OWASP%20ZAP.pdf) by Yuk Fai Chan, and [Hackable OWASP Educational Resources](https://github.com/OWASP/www-chapter-toronto/blob/master/assets/slides/OWASP%20April%202021%20Event%20-%20Hackable%20OWASP%20Educational%20Resources.html) by Opheliar Chan, April 29, 2021. [[video]](https://www.youtube.com/watch?v=4u94Arz2rO0)
