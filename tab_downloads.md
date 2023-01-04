@@ -10,6 +10,9 @@ tags: canada
 
 The past presentations are available for download from here. If you have any comments on the presentations please send them to us. **Please note some presenters choose not to share their material.**
 
+* [The Current State of Insecure
+Deserialization Vulnerabilities](https://github.com/OWASP/www-chapter-toronto/blob/master/assets/slides/the_current_state_of_insecure_deserialization.pptx) by Guy Lederfein, December 14, 2022
+
 * [DevSecOps Transformation on a Shoestring Budget](https://docs.google.com/presentation/d/1rnq3s3zZfcJqgDCeXEV3hOMHfjuRepM73-tY0yPe1NM/edit#slide=id.p) by Itay Gurvich, May 11, 2022
 
 * [OpenShift Container Platform – Security Features](https://drive.google.com/file/d/1eMCrapwAo8LukM6oUZyZfMwoN-TX5X96/view?usp=sharing) by Arvin Monie, October 6, 2021
