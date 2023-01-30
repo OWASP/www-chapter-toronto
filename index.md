@@ -11,7 +11,7 @@ postal-code:
 
 ---
 
-![Toronto Chapter Logo](assets/images/OWASPTorontoChapterLogo.jpg)
+![Toronto Chapter Logo](assets/images/OWASP-Combination-mark-r.png)
 
 Welcome to the Toronto chapter homepage.
 
