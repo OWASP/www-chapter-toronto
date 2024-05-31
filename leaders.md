@@ -5,4 +5,4 @@
 * [Adam Greenhill](mailto:adam.greenhill@owasp.org)
 * [Jack Enders](mailto:jack.enders@owasp.org)
 * [Ads Dawson](mailto:ads.dawson@owasp.org)
-* [Ignatius Michael]
+* [Ignatius Michael](#)
