@@ -15,4 +15,3 @@ contribution to the local Toronto chapter\!
 
 --------------
 
-![PacketLabs_logo-resized.png](assets/images/PacketLabs_logo-resized.png "PacketLabs_logo-resized.png")
