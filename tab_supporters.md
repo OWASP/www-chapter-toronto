@@ -48,3 +48,5 @@ contribution to the local Toronto chapter\!
 ![Corellium-tiny](assets/images/OWASP-Toronto-Local-Chapter-Supporter-Corellium-tiny.png)
 
 ![Miggo](assets/images/OWASP-Toronto-Local-Chapter-Supporter-Miggo.png)
+
+![Oligo](assets/images/OWASP-Toronto-Local-Chapter-Supporter-Oligo.jpg)
