@@ -1,0 +1,33 @@
+leaders:
+  - name: Opheliar Chan
+    email: opheliar.chan@owasp.org
+    github: opheliar-chan
+  - name: Yuk Fai Chan
+    email: yukfai.chan@owasp.org
+    github: yfc-owasp
+  - name: Adam Greenhill
+    email: adam.greenhill@owasp.org
+    github: greenhill-owasp
+  - name: Ads Dawson
+    email: ads.dawson@owasp.org
+    github: GangGreenTemperTatum
+  - name: Ignatius Michael
+    email: ignatius.michael@owasp.org
+location:
+  country: Canada
+  country_code: CA
+  region: Ontario
+  city: Toronto
+  latitude: 43.6534817
+  longitude: -79.3839347
+meetup_group: OWASP-Toronto
+name: OWASP Toronto
+repositories:
+  - name: www-chapter-toronto
+    url: https://github.com/OWASP/www-chapter-toronto
+    description: OWASP Foundation Web Repository
+tags:
+  - canada
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-toronto
