@@ -321,6 +321,11 @@ secrets.yaml
 credentials.yml
 credentials.yaml
 
+# Meetup scraper sensitive files
+request.txt
+*-page.html
+debug*.html
+
 # AWS
 .aws/
 
