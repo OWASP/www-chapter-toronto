@@ -11,4 +11,4 @@ dependencies = [
     "python-dateutil>=2.8.2",
     "playwright>=1.40.0",
 ]
-authors = [{ name = "Ads Dawson", email = "ads@dreadnode.io" }]
+authors = [{ name = "Ads Dawson", email = "ads.dawson@owasp.org" }]
