@@ -1,0 +1,1639 @@
+[
+  {
+    "event_id": "226528846",
+    "url": "https://www.meetup.com/owasp-toronto/events/226528846",
+    "needs_fetch": true,
+    "title": "OWASP Toronto - Nov 2015 Chapter Meeting",
+    "description": null,
+    "date_time": "2015-11-18T18:00:00-05:00",
+    "screenshot_file": "226528846-screenshot.png",
+    "start_date": "2015-11-18T18:00:00-05:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "227847887",
+    "url": "https://www.meetup.com/owasp-toronto/events/227847887",
+    "needs_fetch": true,
+    "title": "OWASP Toronto - Jan 2016 Chapter Meeting",
+    "description": null,
+    "date_time": "2016-01-20T12:00:00-05:00",
+    "screenshot_file": "227847887-screenshot.png",
+    "start_date": "2016-01-20T12:00:00-05:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "231439108",
+    "url": "https://www.meetup.com/owasp-toronto/events/231439108",
+    "needs_fetch": true,
+    "title": "Log in",
+    "description": null,
+    "screenshot_file": "231439108-screenshot.png",
+    "start_date": null,
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "232455360",
+    "url": "https://www.meetup.com/owasp-toronto/events/232455360",
+    "needs_fetch": true,
+    "title": "OWASP Toronto - July 2016 Chapter Meeting",
+    "description": null,
+    "date_time": "2016-07-20T12:00:00-04:00",
+    "screenshot_file": "232455360-screenshot.png",
+    "start_date": "2016-07-20T12:00:00-04:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "237199069",
+    "url": "https://www.meetup.com/owasp-toronto/events/237199069",
+    "needs_fetch": true,
+    "title": "OWASP Toronto - February 2017 Chapter Event",
+    "description": null,
+    "date_time": "2017-02-16T17:00:00-05:00",
+    "screenshot_file": "237199069-screenshot.png",
+    "start_date": "2017-02-16T17:00:00-05:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "238149169",
+    "url": "https://www.meetup.com/owasp-toronto/events/238149169",
+    "needs_fetch": true,
+    "title": "OWASP Toronto - March 2017 Chapter Event",
+    "description": null,
+    "date_time": "2017-03-04T12:00:00-05:00",
+    "screenshot_file": "238149169-screenshot.png",
+    "start_date": "2017-03-04T12:00:00-05:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "239117085",
+    "url": "https://www.meetup.com/owasp-toronto/events/239117085",
+    "needs_fetch": true,
+    "title": "OWASP Toronto - April 2017 Chapter Event",
+    "description": null,
+    "date_time": "2017-04-20T12:00:00-04:00",
+    "screenshot_file": "239117085-screenshot.png",
+    "start_date": "2017-04-20T12:00:00-04:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "240037544",
+    "url": "https://www.meetup.com/owasp-toronto/events/240037544",
+    "needs_fetch": true,
+    "title": "OWASP Toronto - May 2017 Chapter Event",
+    "description": null,
+    "date_time": "2017-05-25T12:00:00-04:00",
+    "screenshot_file": "240037544-screenshot.png",
+    "start_date": "2017-05-25T12:00:00-04:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "240436834",
+    "url": "https://www.meetup.com/owasp-toronto/events/240436834",
+    "needs_fetch": true,
+    "title": "OWASP Toronto - June 2017 Chapter Event",
+    "description": null,
+    "date_time": "2017-06-13T12:00:00-04:00",
+    "screenshot_file": "240436834-screenshot.png",
+    "start_date": "2017-06-13T12:00:00-04:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "242386514",
+    "url": "https://www.meetup.com/owasp-toronto/events/242386514",
+    "needs_fetch": true,
+    "title": "OWASP Toronto - August 2017 Chapter Event",
+    "description": null,
+    "date_time": "2017-08-23T17:30:00-04:00",
+    "screenshot_file": "242386514-screenshot.png",
+    "start_date": "2017-08-23T17:30:00-04:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "244092307",
+    "url": "https://www.meetup.com/owasp-toronto/events/244092307",
+    "needs_fetch": true,
+    "title": "OWASP Toronto - October 2017 Chapter Event",
+    "description": null,
+    "date_time": "2017-10-26T12:00:00-04:00",
+    "screenshot_file": "244092307-screenshot.png",
+    "start_date": "2017-10-26T12:00:00-04:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "246663547",
+    "url": "https://www.meetup.com/owasp-toronto/events/246663547",
+    "needs_fetch": true,
+    "title": "Log in",
+    "description": null,
+    "screenshot_file": "246663547-screenshot.png",
+    "start_date": null,
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "247658687",
+    "url": "https://www.meetup.com/owasp-toronto/events/247658687",
+    "needs_fetch": true,
+    "title": "OWASP Toronto - February 2018 Chapter Event",
+    "description": null,
+    "date_time": "2018-02-27T18:00:00-05:00",
+    "screenshot_file": "247658687-screenshot.png",
+    "start_date": "2018-02-27T18:00:00-05:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "249233869",
+    "url": "https://www.meetup.com/owasp-toronto/events/249233869",
+    "needs_fetch": true,
+    "title": "Log in",
+    "description": null,
+    "screenshot_file": "249233869-screenshot.png",
+    "start_date": null,
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "249233912",
+    "url": "https://www.meetup.com/owasp-toronto/events/249233912",
+    "needs_fetch": true,
+    "title": "Log in",
+    "description": null,
+    "screenshot_file": "249233912-screenshot.png",
+    "start_date": null,
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "250811475",
+    "url": "https://www.meetup.com/owasp-toronto/events/250811475",
+    "needs_fetch": true,
+    "title": "OWASP Toronto - May 2018 Chapter Event",
+    "description": null,
+    "date_time": "2018-05-28T12:00:00-04:00",
+    "screenshot_file": "250811475-screenshot.png",
+    "start_date": "2018-05-28T12:00:00-04:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "251502769",
+    "url": "https://www.meetup.com/owasp-toronto/events/251502769",
+    "needs_fetch": true,
+    "title": "OWASP Toronto - June 2018 Event",
+    "description": null,
+    "date_time": "2018-06-12T12:00:00-04:00",
+    "screenshot_file": "251502769-screenshot.png",
+    "start_date": "2018-06-12T12:00:00-04:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "251502769",
+    "url": "https://www.meetup.com/OWASP-Toronto/events/251502769",
+    "needs_fetch": true,
+    "title": "Log in",
+    "description": null,
+    "screenshot_file": "251502769-screenshot.png",
+    "start_date": null,
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "252646871",
+    "url": "https://www.meetup.com/owasp-toronto/events/252646871",
+    "needs_fetch": true,
+    "title": "Log in",
+    "description": null,
+    "screenshot_file": "252646871-screenshot.png",
+    "start_date": null,
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "254280021",
+    "url": "https://www.meetup.com/owasp-toronto/events/254280021",
+    "needs_fetch": true,
+    "title": "OWASP Toronto - Oct 2018 Event: Azure Cloud Security Workshop",
+    "description": null,
+    "date_time": "2018-10-01T18:00:00-04:00",
+    "screenshot_file": "254280021-screenshot.png",
+    "start_date": "2018-10-01T18:00:00-04:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "254415501",
+    "url": "https://www.meetup.com/owasp-toronto/events/254415501",
+    "needs_fetch": true,
+    "title": "Log in",
+    "description": null,
+    "screenshot_file": "254415501-screenshot.png",
+    "start_date": null,
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "255890795",
+    "url": "https://www.meetup.com/owasp-toronto/events/255890795",
+    "needs_fetch": true,
+    "title": "OWASP Toronto - November 2018 Event: DevSecOps Community Survey Working Session",
+    "description": null,
+    "date_time": "2018-11-14T12:00:00-05:00",
+    "screenshot_file": "255890795-screenshot.png",
+    "start_date": "2018-11-14T12:00:00-05:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "256615463",
+    "url": "https://www.meetup.com/owasp-toronto/events/256615463",
+    "needs_fetch": true,
+    "title": "OWASP Toronto - December 2018 Event: Web Application Penetration Testing",
+    "description": null,
+    "date_time": "2018-12-05T12:00:00-05:00",
+    "screenshot_file": "256615463-screenshot.png",
+    "start_date": "2018-12-05T12:00:00-05:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "258008651",
+    "url": "https://www.meetup.com/owasp-toronto/events/258008651",
+    "needs_fetch": true,
+    "title": "Log in",
+    "description": null,
+    "screenshot_file": "258008651-screenshot.png",
+    "start_date": null,
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "258798951",
+    "url": "https://www.meetup.com/owasp-toronto/events/258798951",
+    "needs_fetch": true,
+    "title": "Log in",
+    "description": null,
+    "screenshot_file": "258798951-screenshot.png",
+    "start_date": null,
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "259127655",
+    "url": "https://www.meetup.com/owasp-toronto/events/259127655",
+    "needs_fetch": true,
+    "title": "March 2019 Event - CMD+CTRL CTF!",
+    "description": null,
+    "date_time": "2019-03-20T18:30:00-04:00",
+    "screenshot_file": "259127655-screenshot.png",
+    "start_date": "2019-03-20T18:30:00-04:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "260481381",
+    "url": "https://www.meetup.com/owasp-toronto/events/260481381",
+    "needs_fetch": true,
+    "title": "April 2019 Event - De-identification!",
+    "description": null,
+    "date_time": "2019-04-17T18:30:00-04:00",
+    "screenshot_file": "260481381-screenshot.png",
+    "start_date": "2019-04-17T18:30:00-04:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "260954132",
+    "url": "https://www.meetup.com/owasp-toronto/events/260954132",
+    "needs_fetch": true,
+    "title": "Log in",
+    "description": null,
+    "screenshot_file": "260954132-screenshot.png",
+    "start_date": null,
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "261769485",
+    "url": "https://www.meetup.com/owasp-toronto/events/261769485",
+    "needs_fetch": true,
+    "title": "Log in",
+    "description": null,
+    "screenshot_file": "261769485-screenshot.png",
+    "start_date": null,
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "262561944",
+    "url": "https://www.meetup.com/owasp-toronto/events/262561944",
+    "needs_fetch": true,
+    "title": "Log in",
+    "description": null,
+    "screenshot_file": "262561944-screenshot.png",
+    "start_date": null,
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "263434260",
+    "url": "https://www.meetup.com/owasp-toronto/events/263434260",
+    "needs_fetch": true,
+    "title": "Log in",
+    "description": null,
+    "screenshot_file": "263434260-screenshot.png",
+    "start_date": null,
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "264353798",
+    "url": "https://www.meetup.com/owasp-toronto/events/264353798",
+    "needs_fetch": true,
+    "title": "September 2019 Event - Attacking OAuth and SAML",
+    "description": null,
+    "date_time": "2019-09-18T18:30:00-04:00",
+    "screenshot_file": "264353798-screenshot.png",
+    "start_date": "2019-09-18T18:30:00-04:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "265163665",
+    "url": "https://www.meetup.com/owasp-toronto/events/265163665",
+    "needs_fetch": true,
+    "title": "OWASP Toronto's Industry Event at SecTor!",
+    "description": null,
+    "date_time": "2019-10-09T13:30:00-04:00",
+    "screenshot_file": "265163665-screenshot.png",
+    "start_date": "2019-10-09T13:30:00-04:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "265325786",
+    "url": "https://www.meetup.com/owasp-toronto/events/265325786",
+    "needs_fetch": true,
+    "title": "October 2019 Event - Half a Decade in Review: The \"Hard\" Conversations",
+    "description": null,
+    "date_time": "2019-10-24T18:30:00-04:00",
+    "screenshot_file": "265325786-screenshot.png",
+    "start_date": "2019-10-24T18:30:00-04:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "266243912",
+    "url": "https://www.meetup.com/owasp-toronto/events/266243912",
+    "needs_fetch": true,
+    "title": "Log in",
+    "description": null,
+    "screenshot_file": "266243912-screenshot.png",
+    "start_date": null,
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "266877923",
+    "url": "https://www.meetup.com/owasp-toronto/events/266877923",
+    "needs_fetch": true,
+    "title": "December 2019 Event - OWASP IoT Top 10 - Exploring Vulnerability Root Causes",
+    "description": null,
+    "date_time": "2019-12-11T18:30:00-05:00",
+    "screenshot_file": "266877923-screenshot.png",
+    "start_date": "2019-12-11T18:30:00-05:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "267762345",
+    "url": "https://www.meetup.com/owasp-toronto/events/267762345",
+    "needs_fetch": true,
+    "title": "January 2020 Event - The Clutter that\u2019s Choking AppSec",
+    "description": null,
+    "date_time": "2020-01-22T18:30:00-05:00",
+    "screenshot_file": "267762345-screenshot.png",
+    "start_date": "2020-01-22T18:30:00-05:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "268415559",
+    "url": "https://www.meetup.com/owasp-toronto/events/268415559",
+    "needs_fetch": true,
+    "title": "February 2020 Event - War in the Fifth Dimension: A Cyberwar Primer",
+    "description": null,
+    "date_time": "2020-02-20T18:30:00-05:00",
+    "screenshot_file": "268415559-screenshot.png",
+    "start_date": "2020-02-20T18:30:00-05:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "269168248",
+    "url": "https://www.meetup.com/owasp-toronto/events/269168248",
+    "needs_fetch": true,
+    "title": "Log in",
+    "description": null,
+    "screenshot_file": "269168248-screenshot.png",
+    "start_date": null,
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "270012697",
+    "url": "https://www.meetup.com/owasp-toronto/events/270012697",
+    "needs_fetch": true,
+    "title": "April 2020 Event - Lift and Adrift: Understanding Threats in an AWS Environment",
+    "description": null,
+    "date_time": "2020-04-22T18:30:00-04:00",
+    "screenshot_file": "270012697-screenshot.png",
+    "start_date": "2020-04-22T18:30:00-04:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "270261041",
+    "url": "https://www.meetup.com/owasp-toronto/events/270261041",
+    "needs_fetch": true,
+    "title": "Log in",
+    "description": null,
+    "screenshot_file": "270261041-screenshot.png",
+    "start_date": null,
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "270567192",
+    "url": "https://www.meetup.com/owasp-toronto/events/270567192",
+    "needs_fetch": true,
+    "title": "Log in",
+    "description": null,
+    "screenshot_file": "270567192-screenshot.png",
+    "start_date": null,
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "270728832",
+    "url": "https://www.meetup.com/owasp-toronto/events/270728832",
+    "needs_fetch": true,
+    "title": "Log in",
+    "description": null,
+    "screenshot_file": "270728832-screenshot.png",
+    "start_date": null,
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "271062359",
+    "url": "https://www.meetup.com/owasp-toronto/events/271062359",
+    "needs_fetch": true,
+    "title": "Log in",
+    "description": null,
+    "screenshot_file": "271062359-screenshot.png",
+    "start_date": null,
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "272339687",
+    "url": "https://www.meetup.com/owasp-toronto/events/272339687",
+    "needs_fetch": true,
+    "title": "Log in",
+    "description": null,
+    "screenshot_file": "272339687-screenshot.png",
+    "start_date": null,
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "273965978",
+    "url": "https://www.meetup.com/owasp-toronto/events/273965978",
+    "needs_fetch": true,
+    "title": "Frida 101 - Testing Mobile Apps | High-level reverse engineering tactics",
+    "description": null,
+    "date_time": "2020-10-28T18:30:00-04:00",
+    "screenshot_file": "273965978-screenshot.png",
+    "start_date": "2020-10-28T18:30:00-04:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "274520212",
+    "url": "https://www.meetup.com/owasp-toronto/events/274520212",
+    "needs_fetch": true,
+    "title": "Designing a Security Champions Program | Introduction to Threat Modeling",
+    "description": null,
+    "date_time": "2020-11-25T18:30:00-05:00",
+    "screenshot_file": "274520212-screenshot.png",
+    "start_date": "2020-11-25T18:30:00-05:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "274932049",
+    "url": "https://www.meetup.com/owasp-toronto/events/274932049",
+    "needs_fetch": true,
+    "title": "Log in",
+    "description": null,
+    "screenshot_file": "274932049-screenshot.png",
+    "start_date": null,
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "275596506",
+    "url": "https://www.meetup.com/owasp-toronto/events/275596506",
+    "needs_fetch": true,
+    "title": "OWASP Toronto - January Event - Hackers for Change | Intro to OWASP Zap",
+    "description": null,
+    "date_time": "2021-01-20T18:30:00-05:00",
+    "screenshot_file": "275596506-screenshot.png",
+    "start_date": "2021-01-20T18:30:00-05:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "275910070",
+    "url": "https://www.meetup.com/owasp-toronto/events/275910070",
+    "needs_fetch": true,
+    "title": "Log in",
+    "description": null,
+    "screenshot_file": "275910070-screenshot.png",
+    "start_date": null,
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "276128706",
+    "url": "https://www.meetup.com/owasp-toronto/events/276128706",
+    "needs_fetch": true,
+    "title": "Log in",
+    "description": null,
+    "screenshot_file": "276128706-screenshot.png",
+    "start_date": null,
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "276463557",
+    "url": "https://www.meetup.com/owasp-toronto/events/276463557",
+    "needs_fetch": true,
+    "title": "Cybersecurity Through the Eyes of Psychology | Technical Writing 101",
+    "description": null,
+    "date_time": "2021-03-17T18:30:00-04:00",
+    "screenshot_file": "276463557-screenshot.png",
+    "start_date": "2021-03-17T18:30:00-04:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "277757114",
+    "url": "https://www.meetup.com/owasp-toronto/events/277757114",
+    "needs_fetch": true,
+    "title": "Log in",
+    "description": null,
+    "screenshot_file": "277757114-screenshot.png",
+    "start_date": null,
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "277835705",
+    "url": "https://www.meetup.com/owasp-toronto/events/277835705",
+    "needs_fetch": true,
+    "title": "Log in",
+    "description": null,
+    "screenshot_file": "277835705-screenshot.png",
+    "start_date": null,
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "278590328",
+    "url": "https://www.meetup.com/owasp-toronto/events/278590328",
+    "needs_fetch": true,
+    "title": "OWASP Toronto - June Event - Bringing Order to Static Analysis Security Testing",
+    "description": null,
+    "date_time": "2021-06-09T18:30:00-04:00",
+    "screenshot_file": "278590328-screenshot.png",
+    "start_date": "2021-06-09T18:30:00-04:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "279158285",
+    "url": "https://www.meetup.com/owasp-toronto/events/279158285",
+    "needs_fetch": true,
+    "title": "OWASP Toronto - July Event - DevSecOps: Why Aren\u2019t IAST and RASP in Your Stack?",
+    "description": null,
+    "date_time": "2021-07-14T18:30:00-04:00",
+    "screenshot_file": "279158285-screenshot.png",
+    "start_date": "2021-07-14T18:30:00-04:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "279578453",
+    "url": "https://www.meetup.com/owasp-toronto/events/279578453",
+    "needs_fetch": true,
+    "title": "OWASP Toronto - August Event - Managing Secrets in Containers",
+    "description": null,
+    "date_time": "2021-08-11T18:30:00-04:00",
+    "screenshot_file": "279578453-screenshot.png",
+    "start_date": "2021-08-11T18:30:00-04:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "280231244",
+    "url": "https://www.meetup.com/owasp-toronto/events/280231244",
+    "needs_fetch": true,
+    "title": "Log in",
+    "description": null,
+    "screenshot_file": "280231244-screenshot.png",
+    "start_date": null,
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "280934584",
+    "url": "https://www.meetup.com/owasp-toronto/events/280934584",
+    "needs_fetch": true,
+    "title": "OWASP Toronto - October Event - OpenShift Container Platform | Damn GraphQL",
+    "description": null,
+    "date_time": "2021-10-06T18:00:00-04:00",
+    "screenshot_file": "280934584-screenshot.png",
+    "start_date": "2021-10-06T18:00:00-04:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "280991402",
+    "url": "https://www.meetup.com/owasp-toronto/events/280991402",
+    "needs_fetch": true,
+    "title": "OWASP TO x Wealthsimple  - Sept Event #2 - A week in the life of a pentester",
+    "description": null,
+    "date_time": "2021-09-29T13:30:00-04:00",
+    "screenshot_file": "280991402-screenshot.png",
+    "start_date": "2021-09-29T13:30:00-04:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "281510935",
+    "url": "https://www.meetup.com/owasp-toronto/events/281510935",
+    "needs_fetch": true,
+    "title": "Log in",
+    "description": null,
+    "screenshot_file": "281510935-screenshot.png",
+    "start_date": null,
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "281660781",
+    "url": "https://www.meetup.com/owasp-toronto/events/281660781",
+    "needs_fetch": true,
+    "title": "Detectify x OWASP Toronto - Pre-SecTor virtual meetup",
+    "description": null,
+    "date_time": "2021-11-02T17:00:00-04:00",
+    "screenshot_file": "281660781-screenshot.png",
+    "start_date": "2021-11-02T17:00:00-04:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "282136603",
+    "url": "https://www.meetup.com/owasp-toronto/events/282136603",
+    "needs_fetch": true,
+    "title": "December Event - G0rking | Software Composition Analysis 101",
+    "description": null,
+    "date_time": "2021-12-08T18:30:00-05:00",
+    "screenshot_file": "282136603-screenshot.png",
+    "start_date": "2021-12-08T18:30:00-05:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "283088193",
+    "url": "https://www.meetup.com/owasp-toronto/events/283088193",
+    "needs_fetch": true,
+    "title": "OWASP Toronto & Ottawa Joint Meetup - Jan 2022!",
+    "description": null,
+    "date_time": "2022-01-12T18:30:00-05:00",
+    "screenshot_file": "283088193-screenshot.png",
+    "start_date": "2022-01-12T18:30:00-05:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "283383269",
+    "url": "https://www.meetup.com/owasp-toronto/events/283383269",
+    "needs_fetch": true,
+    "title": "OWASP February 2022 Event - Insider's Guide to Mobile AppSec with OWASP MASVS",
+    "description": null,
+    "date_time": "2022-02-09T18:30:00-05:00",
+    "screenshot_file": "283383269-screenshot.png",
+    "start_date": "2022-02-09T18:30:00-05:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "285464310",
+    "url": "https://www.meetup.com/owasp-toronto/events/285464310",
+    "needs_fetch": true,
+    "title": "OWASP April 2022 Event - Saving a SAST Program in Distress",
+    "description": null,
+    "date_time": "2022-04-27T18:30:00-04:00",
+    "screenshot_file": "285464310-screenshot.png",
+    "start_date": "2022-04-27T18:30:00-04:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "285477882",
+    "url": "https://www.meetup.com/owasp-toronto/events/285477882",
+    "needs_fetch": true,
+    "title": "TEST/TEST",
+    "description": null,
+    "date_time": "2022-04-25T19:00:00-04:00",
+    "screenshot_file": "285477882-screenshot.png",
+    "start_date": "2022-04-25T19:00:00-04:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "285806255",
+    "url": "https://www.meetup.com/owasp-toronto/events/285806255",
+    "needs_fetch": true,
+    "title": "OWASP May 2022 Event - DevSecOps Transformation on a Shoestring Budget",
+    "description": null,
+    "date_time": "2022-05-11T18:30:00-04:00",
+    "screenshot_file": "285806255-screenshot.png",
+    "start_date": "2022-05-11T18:30:00-04:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "286120663",
+    "url": "https://www.meetup.com/owasp-toronto/events/286120663",
+    "needs_fetch": true,
+    "title": "OWASP Toronto - June Event - GitHub Actions: Protecting your CI from attackers",
+    "description": null,
+    "date_time": "2022-06-08T18:30:00-04:00",
+    "screenshot_file": "286120663-screenshot.png",
+    "start_date": "2022-06-08T18:30:00-04:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "286841417",
+    "url": "https://www.meetup.com/owasp-toronto/events/286841417",
+    "needs_fetch": true,
+    "title": "OWASP Toronto - July Event - Serverless OWASP Top 10",
+    "description": null,
+    "date_time": "2022-07-13T18:30:00-04:00",
+    "screenshot_file": "286841417-screenshot.png",
+    "start_date": "2022-07-13T18:30:00-04:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "287622414",
+    "url": "https://www.meetup.com/owasp-toronto/events/287622414",
+    "needs_fetch": true,
+    "title": "OWASP Toronto - August Event - Hidden issues in running a threat intel program",
+    "description": null,
+    "date_time": "2022-08-17T18:30:00-04:00",
+    "screenshot_file": "287622414-screenshot.png",
+    "start_date": "2022-08-17T18:30:00-04:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "288355236",
+    "url": "https://www.meetup.com/owasp-toronto/events/288355236",
+    "needs_fetch": true,
+    "title": "OWASP Advanced Whiteboard Hacking - AKA Hands on Threat Modeling",
+    "description": null,
+    "date_time": "2022-09-13T04:00:00-04:00",
+    "screenshot_file": "288355236-screenshot.png",
+    "start_date": "2022-09-13T04:00:00-04:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "288919681",
+    "url": "https://www.meetup.com/owasp-toronto/events/288919681",
+    "needs_fetch": true,
+    "title": "OWASP Toronto - October Event - Writing and publishing a tech book",
+    "description": null,
+    "date_time": "2022-10-12T18:30:00-04:00",
+    "screenshot_file": "288919681-screenshot.png",
+    "start_date": "2022-10-12T18:30:00-04:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "289188931",
+    "url": "https://www.meetup.com/owasp-toronto/events/289188931",
+    "needs_fetch": true,
+    "title": "2022 OWASP Global AppSec San Francisco",
+    "description": null,
+    "date_time": "2022-11-14T11:00:00-05:00",
+    "screenshot_file": "289188931-screenshot.png",
+    "start_date": "2022-11-14T11:00:00-05:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "289236484",
+    "url": "https://www.meetup.com/owasp-toronto/events/289236484",
+    "needs_fetch": true,
+    "title": "Are you an OWASP Member?",
+    "description": null,
+    "date_time": "2022-10-21T08:00:00-04:00",
+    "screenshot_file": "289236484-screenshot.png",
+    "start_date": "2022-10-21T08:00:00-04:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "289436744",
+    "url": "https://www.meetup.com/owasp-toronto/events/289436744",
+    "needs_fetch": true,
+    "title": "OWASP Toronto - November Event - Insiders Guide to Mobile AppSec w/ OWASP MASVS",
+    "description": null,
+    "date_time": "2022-11-07T17:00:00-05:00",
+    "screenshot_file": "289436744-screenshot.png",
+    "start_date": "2022-11-07T17:00:00-05:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "290047382",
+    "url": "https://www.meetup.com/owasp-toronto/events/290047382",
+    "needs_fetch": true,
+    "title": "OWASP Toronto | The Current State of Insecure Deserialization Vulnerabilities",
+    "description": null,
+    "date_time": "2022-12-14T18:30:00-05:00",
+    "screenshot_file": "290047382-screenshot.png",
+    "start_date": "2022-12-14T18:30:00-05:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "291468476",
+    "url": "https://www.meetup.com/owasp-toronto/events/291468476",
+    "needs_fetch": true,
+    "title": "OWASP Toronto x Security Innovation | CMD+CTRL Cyber Range CTF",
+    "description": null,
+    "date_time": "2023-02-23T18:30:00-05:00",
+    "screenshot_file": "291468476-screenshot.png",
+    "start_date": "2023-02-23T18:30:00-05:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "292763892",
+    "url": "https://www.meetup.com/owasp-toronto/events/292763892",
+    "needs_fetch": true,
+    "title": "OWASP Toronto | Software Bill of Materials (SBOM) And Security Via Transparency",
+    "description": null,
+    "date_time": "2023-04-12T18:30:00-04:00",
+    "screenshot_file": "292763892-screenshot.png",
+    "start_date": "2023-04-12T18:30:00-04:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "293475436",
+    "url": "https://www.meetup.com/owasp-toronto/events/293475436",
+    "needs_fetch": true,
+    "title": "OWASP x Project Calico x Okta | Container and Kubernetes security policy design",
+    "description": null,
+    "date_time": "2023-06-15T18:30:00-04:00",
+    "screenshot_file": "293475436-screenshot.png",
+    "start_date": "2023-06-15T18:30:00-04:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "295200070",
+    "url": "https://www.meetup.com/owasp-toronto/events/295200070",
+    "needs_fetch": true,
+    "title": "OWASP x Okta |  IoTSecurity101 - Art of exploiting real world devices",
+    "description": null,
+    "date_time": "2023-08-17T18:30:00-04:00",
+    "screenshot_file": "295200070-screenshot.png",
+    "start_date": "2023-08-17T18:30:00-04:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "296515557",
+    "url": "https://www.meetup.com/owasp-toronto/events/296515557",
+    "needs_fetch": true,
+    "title": "OWASP Toronto | Developers like Carrots not sticks",
+    "description": null,
+    "date_time": "2023-10-12T18:30:00-04:00",
+    "screenshot_file": "296515557-screenshot.png",
+    "start_date": "2023-10-12T18:30:00-04:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "297246491",
+    "url": "https://www.meetup.com/owasp-toronto/events/297246491",
+    "needs_fetch": true,
+    "title": "OWASP Toronto | Privacy by Design (PbD)",
+    "description": null,
+    "date_time": "2023-11-21T18:30:00-05:00",
+    "screenshot_file": "297246491-screenshot.png",
+    "start_date": "2023-11-21T18:30:00-05:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "297636602",
+    "url": "https://www.meetup.com/owasp-toronto/events/297636602",
+    "needs_fetch": true,
+    "title": "OWASP Toronto | Privacy by Design (PbD)",
+    "description": null,
+    "date_time": "2023-12-06T18:30:00-05:00",
+    "screenshot_file": "297636602-screenshot.png",
+    "start_date": "2023-12-06T18:30:00-05:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "298936718",
+    "url": "https://www.meetup.com/owasp-toronto/events/298936718",
+    "needs_fetch": true,
+    "title": "OWASP Toronto | Psychology of phishing attacks",
+    "description": null,
+    "date_time": "2024-02-15T18:30:00-05:00",
+    "screenshot_file": "298936718-screenshot.png",
+    "start_date": "2024-02-15T18:30:00-05:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "299304276",
+    "url": "https://www.meetup.com/owasp-toronto/events/299304276",
+    "needs_fetch": true,
+    "title": "Celebrating security community in Toronto: Reflections and future plans",
+    "description": null,
+    "date_time": "2024-02-28T18:00:00-05:00",
+    "screenshot_file": "299304276-screenshot.png",
+    "start_date": "2024-02-28T18:00:00-05:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "300219092",
+    "url": "https://www.meetup.com/owasp-toronto/events/300219092",
+    "needs_fetch": true,
+    "title": "OWASP Toronto: Avoid Becoming a Headline: A General Approach on AI Security",
+    "description": null,
+    "date_time": "2024-04-17T18:30:00-04:00",
+    "screenshot_file": "300219092-screenshot.png",
+    "start_date": "2024-04-17T18:30:00-04:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "301234176",
+    "url": "https://www.meetup.com/owasp-toronto/events/301234176",
+    "needs_fetch": true,
+    "title": "OWASP Toronto | OWASP Top 10 for LLM Applications",
+    "description": null,
+    "date_time": "2024-06-12T18:30:00-04:00",
+    "screenshot_file": "301234176-screenshot.png",
+    "start_date": "2024-06-12T18:30:00-04:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "301854096",
+    "url": "https://www.meetup.com/owasp-toronto/events/301854096",
+    "needs_fetch": true,
+    "title": "OWASP Toronto | Improving the SOC with SOC-CMM",
+    "description": null,
+    "date_time": "2024-07-17T18:30:00-04:00",
+    "screenshot_file": "301854096-screenshot.png",
+    "start_date": "2024-07-17T18:30:00-04:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "303805690",
+    "url": "https://www.meetup.com/owasp-toronto/events/303805690",
+    "needs_fetch": true,
+    "title": "OWASP Toronto | Inference Servers: new technology, same old security flaws.",
+    "description": null,
+    "date_time": "2024-10-03T11:30:00-04:00",
+    "screenshot_file": "303805690-screenshot.png",
+    "start_date": "2024-10-03T11:30:00-04:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "303820301",
+    "url": "https://www.meetup.com/owasp-toronto/events/303820301",
+    "needs_fetch": true,
+    "title": "Securing Software Supply Chains and the role of AIBOMs",
+    "description": null,
+    "date_time": "2024-10-09T17:30:00-04:00",
+    "screenshot_file": "303820301-screenshot.png",
+    "start_date": "2024-10-09T17:30:00-04:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "305601912",
+    "url": "https://www.meetup.com/owasp-toronto/events/305601912",
+    "needs_fetch": true,
+    "title": "Modern AppSec Requires a Modern Approach",
+    "description": null,
+    "date_time": "2025-01-22T18:30:00-05:00",
+    "screenshot_file": "305601912-screenshot.png",
+    "start_date": "2025-01-22T18:30:00-05:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "305752677",
+    "url": "https://www.meetup.com/owasp-toronto/events/305752677",
+    "needs_fetch": true,
+    "title": "How to Utilize AI in Offensive Security\u2014An Intro to Offensive AI Tooling",
+    "description": null,
+    "date_time": "2025-03-19T18:30:00-04:00",
+    "screenshot_file": "305752677-screenshot.png",
+    "start_date": "2025-03-19T18:30:00-04:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "306889573",
+    "url": "https://www.meetup.com/owasp-toronto/events/306889573",
+    "needs_fetch": true,
+    "title": "The State of Secure Coding & Secure Coding Tournament",
+    "description": null,
+    "date_time": "2025-04-23T18:30:00-04:00",
+    "screenshot_file": "306889573-screenshot.png",
+    "start_date": "2025-04-23T18:30:00-04:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "307305805",
+    "url": "https://www.meetup.com/owasp-toronto/events/307305805",
+    "needs_fetch": true,
+    "title": "The Dark Side of AI: Developing unsecure applications in minutes!",
+    "description": null,
+    "date_time": "2025-05-08T17:30:00-04:00",
+    "screenshot_file": "307305805-screenshot.png",
+    "start_date": "2025-05-08T17:30:00-04:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "307827138",
+    "url": "https://www.meetup.com/owasp-toronto/events/307827138",
+    "needs_fetch": true,
+    "title": "Dual Event: Mobile App Testing 101 | OWASP Agentic AI Threats & Mitigations",
+    "description": null,
+    "date_time": "2025-06-11T18:30:00-04:00",
+    "screenshot_file": "307827138-screenshot.png",
+    "start_date": "2025-06-11T18:30:00-04:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "308560869",
+    "url": "https://www.meetup.com/owasp-toronto/events/308560869",
+    "needs_fetch": true,
+    "title": "Secure Vibe Coding: 5 Key Lessons | The AI Appsec Nightmare",
+    "description": null,
+    "date_time": "2025-07-16T18:30:00-04:00",
+    "screenshot_file": "308560869-screenshot.png",
+    "start_date": "2025-07-16T18:30:00-04:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "310318996",
+    "url": "https://www.meetup.com/owasp-toronto/events/310318996",
+    "needs_fetch": true,
+    "title": "Reducing Application Security Risk with ASPM: Future-Proofing for 2025 & Beyond",
+    "description": null,
+    "date_time": "2025-08-21T18:30:00-04:00",
+    "screenshot_file": "310318996-screenshot.png",
+    "start_date": "2025-08-21T18:30:00-04:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "310758481",
+    "url": "https://www.meetup.com/owasp-toronto/events/310758481",
+    "needs_fetch": true,
+    "title": "Becoming a Caido Power User: From Recon to Root",
+    "description": null,
+    "date_time": "2025-09-17T18:30:00-04:00",
+    "screenshot_file": "310758481-screenshot.png",
+    "start_date": "2025-09-17T18:30:00-04:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "311177941",
+    "url": "https://www.meetup.com/owasp-toronto/events/311177941",
+    "needs_fetch": true,
+    "title": "Beyond Scans: eBPF-Powered Runtime Security for Applications and AI",
+    "description": null,
+    "date_time": "2025-10-15T18:30:00-04:00",
+    "screenshot_file": "311177941-screenshot.png",
+    "start_date": "2025-10-15T18:30:00-04:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "311661253",
+    "url": "https://www.meetup.com/owasp-toronto/events/311661253",
+    "needs_fetch": true,
+    "title": "Clusterfuck -- A Multi-Stage Attack Simulation Framework for Kubernetes",
+    "description": null,
+    "date_time": "2025-11-12T18:30:00-05:00",
+    "screenshot_file": "311661253-screenshot.png",
+    "start_date": "2025-11-12T18:30:00-05:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "312264836",
+    "url": "https://www.meetup.com/owasp-toronto/events/312264836",
+    "needs_fetch": true,
+    "title": "OWASP Toronto X CyberToronto InfoSec Conference",
+    "description": null,
+    "date_time": "2025-12-11T10:00:00-05:00",
+    "screenshot_file": "312264836-screenshot.png",
+    "start_date": "2025-12-11T10:00:00-05:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "312744618",
+    "url": "https://www.meetup.com/owasp-toronto/events/312744618",
+    "needs_fetch": true,
+    "title": "Privacy Components That Should Actually Matter to Development Teams",
+    "description": null,
+    "date_time": "2026-01-14T18:30:00-05:00",
+    "screenshot_file": "312744618-screenshot.png",
+    "start_date": "2026-01-14T18:30:00-05:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  },
+  {
+    "event_id": "313053927",
+    "url": "https://www.meetup.com/owasp-toronto/events/313053927",
+    "needs_fetch": true,
+    "title": "IMPORTANT NOTE ABOUT UPCOMING TRANSITION | February 2026 Chapter Event",
+    "description": null,
+    "date_time": "2026-02-12T18:30:00-05:00",
+    "screenshot_file": "313053927-screenshot.png",
+    "start_date": "2026-02-12T18:30:00-05:00",
+    "end_date": null,
+    "attendee_count": null,
+    "location": {
+      "type": "unknown",
+      "name": "See event details"
+    }
+  }
+]
