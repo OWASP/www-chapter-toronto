@@ -15,3 +15,5 @@
 * [YouTube @owasptoronto7639](https://www.youtube.com/channel/UCqmBl-u_4cOEiH3OXWE3sPg)
 
 * [Twitter @OWASPToronto](https://twitter.com/OWASPToronto)
+
+* [GitHub Pages](https://owasp.github.io/www-chapter-toronto/)
