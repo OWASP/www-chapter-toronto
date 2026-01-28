@@ -1,3 +1,7 @@
 remote_theme: "owasp/www--site-theme@main"
 plugins:
  - jekyll-include-cache-0.2.0
+
+# GitHub Pages configuration
+baseurl: "/www-chapter-toronto"  # Repository name
+url: "https://owasp.github.io"    # GitHub Pages base URL
